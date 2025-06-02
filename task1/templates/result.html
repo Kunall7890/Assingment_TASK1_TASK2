@@ -1,0 +1,18 @@
+<!doctype html>
+<title>Ticket Issue Types and Urgency Levels</title>
+<h1>Ticket Issue Types and Urgency Levels</h1>
+<table border="1">
+  <tr>
+    <th>Ticket ID</th>
+    <th>Issue Type</th>
+    <th>Urgency Level</th>
+  </tr>
+  {% for ticket in tickets %}
+  <tr>
+    <td>{{ ticket.ticket_id }}</td>
+    <td>{{ ticket.issue_type }}</td>
+    <td>{{ ticket.urgency_level }}</td>
+  </tr>
+  {% endfor %}
+</table>
+<a href="{{ url_for('upload_tickets') }}">Upload another file</a> 

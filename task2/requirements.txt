@@ -1,0 +1,9 @@
+datasets
+sentence-transformers
+faiss-cpu
+ragas
+python-dotenv
+openai
+torch
+transformers
+gradio 

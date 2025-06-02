@@ -1,0 +1,1001 @@
+ticket_id,ticket_text,issue_type,urgency_level,product,processed_text,text_length
+1,Payment issue for my SmartWatch V2. I was underbilled for order #29224.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v underbilled order,71
+2,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in white?",General Inquiry,Unknown,UltraClean Vacuum,tell ultraclean vacuum warranty also available white,90
+3,I ordered SoundWave 300 but got EcoBreeze AC instead. My order number is #36824.,Wrong Item,Medium,SoundWave 300,ordered soundwave got ecobreeze ac instead order number,80
+4,Facing installation issue with PhotoSnap Cam. Setup fails at step 1.,Installation Issue,Low,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+5,"Order #30903 for Vision LED TV is 13 days late. Ordered on 03 March. Also, I contacted support on 03 March but got no response.",Late Delivery,Unknown,Vision LED TV,order vision led tv day late ordered march also contacted support march got response,127
+6,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red?",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available red,84
+7, is malfunction. It stopped working after just 7 days.,Product Defect,Low,EcoBreeze AC,malfunction stopped working day,54
+8,"Facing installation issue with RoboChef Blender. Setup fails at step 3. Also, I contacted support on 17 March but got no response.",Installation Issue,High,RoboChef Blender,facing installation issue robochef blender setup fails step also contacted support march got response,130
+9,Both my FitRun Treadmill and UltraClean Vacuum are error. Both giving issues.,Unknown,High,FitRun Treadmill,fitrun treadmill ultraclean vacuum error giving issue,77
+10,,Product Defect,High,PhotoSnap Cam,,0
+11,,Unknown,Medium,Vision LED TV,,0
+12,Order #34285 placed on 18 March still not here.,Late Delivery,Medium,RoboChef Blender,order placed march still,47
+13,Vision LED TV is no response. It stopped working after just 9 days.,Unknown,Unknown,Vision LED TV,vision led tv response stopped working day,67
+14,"Both my PowerMax Battery and EcoBreeze AC are lost. Both giving issues. Also, I contacted support on 12 March but got no response.",Product Defect,High,PowerMax Battery,powermax battery ecobreeze ac lost giving issue also contacted support march got response,130
+15,Order #53356 for RoboChef Blender is 18 days late. Ordered on 13 April.,Late Delivery,High,RoboChef Blender,order robochef blender day late ordered april,71
+16,Order #49712 for RoboChef Blender is 4 days late. Ordered on 25 April.,Late Delivery,Medium,RoboChef Blender,order robochef blender day late ordered april,70
+17,"Received wrong product, order mixed up. Also, I contacted support on 03 March but got no response.",Wrong Item,Medium,Vision LED TV,received wrong product order mixed also contacted support march got response,98
+18,"Received wrong product, order mixed up.",Wrong Item,High,PhotoSnap Cam,received wrong product order mixed,39
+19,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,PhotoSnap Cam,cant log account keep showing unknown issue help,62
+20,Login not working.,Account Access,High,ProTab X1,login working,18
+21,PhotoSnap Cam is faulty. It stopped working after just 1 days.,Product Defect,Medium,PhotoSnap Cam,photosnap cam faulty stopped working day,62
+22,"Payment issue for my RoboChef Blender. I was not refunded for order #47429. Also, I contacted support on 02 March but got no response.",Billing Problem,Medium,RoboChef Blender,payment issue robochef blender refunded order also contacted support march got response,134
+23,FitRun Treadmill is damaged. It stopped working after just 9 days.,Product Defect,Low,FitRun Treadmill,fitrun treadmill damaged stopped working day,66
+24,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Low,EcoBreeze AC,cant log account keep showing blocked help,56
+25,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in black?",General Inquiry,Unknown,FitRun Treadmill,tell fitrun treadmill warranty also available black,89
+26,Facing installation issue with RoboChef Blender. Setup fails at step 6.,Unknown,Medium,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+27,Facing installation issue wit Vision LED TV. Setup fails at step 6.,Installation Issue,Low,Vision LED TV,facing installation issue wit vision led tv setup fails step,67
+28,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in blue?",General Inquiry,Medium,RoboChef Blender,tell robochef blender warranty also available blue,88
+29,FitRun Treadmill is malfunction. It stopped working after just 2 days.,Product Defect,Low,FitRun Treadmill,fitrun treadmill malfunction stopped working day,70
+30,"Order #28983 for SmartWatch V2 is 17 days late. Ordered on 05 May. Also, I contacted support on 05 May but got no response.",Late Delivery,High,SmartWatch V2,order smartwatch v day late ordered may also contacted support may got response,123
+31,Payment issue fr mi EcoBreeze AC. I was charged twice fr order #64374.,Billing Problem,Low,EcoBreeze AC,payment issue fr mi ecobreeze ac charged twice fr order,70
+32,"FitRun Treadmill is lost. It stopped working after just 3 days. Also, I contacted support on 08 May but got no response.",Product Defect,Low,FitRun Treadmill,fitrun treadmill lost stopped working day also contacted support may got response,120
+33,Order #79265 for EcoBreeze AC is 15 days late. Ordered on 17 March.,Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered march,67
+34,Payment problem fr order #88128. Need urgent help.,Billing Problem,Low,RoboChef Blender,payment problem fr order need urgent help,50
+35,Order #58187 for EcoBreeze AC is 11 days late. Ordered on 30 March.,Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered march,67
+36,RoboChef Blender is malfunction. It stopped working after just 9 days.,Product Defect,High,RoboChef Blender,robochef blender malfunction stopped working day,70
+37,Can't log in to my account. Keeps showing blocked. Help! Delivery expected by 04 March.,Unknown,High,FitRun Treadmill,cant log account keep showing blocked help delivery expected march,87
+38,,Billing Problem,High,PhotoSnap Cam,,0
+39,Payment issue for my ProTab X1. I was charged twice for order #14510.,Billing Problem,Medium,ProTab X1,payment issue protab x charged twice order,69
+40,Facing installation issue with FitRun Treadmill. Setup fails at step 4.,Installation Issue,High,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+41,Payment issue for my FitRun Treadmill. I was not refunded for order #91776.,Billing Problem,Low,FitRun Treadmill,payment issue fitrun treadmill refunded order,75
+42,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,PhotoSnap Cam,cant log account keep showing captcha failed help,63
+43,,Billing Problem,Medium,ProTab X1,,0
+44,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,SoundWave 300,cant log account keep showing unknown issue help,62
+45,Facing installation issue with RoboChef Blender. Setup fails at step 2.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+46,"Can you tell me more about the  warranty? Also, is it available in black?",General Inquiry,High,UltraClean Vacuum,tell warranty also available black,73
+47,Facing installation issue with PowerMax Battery. Setup fails at step 2.,Installation Issue,Medium,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+48,"Can you tell me more about the ProTab X1 warranty? Also, is it available in red?",General Inquiry,Low,ProTab X1,tell protab x warranty also available red,80
+49,Facing installation issue wit EcoBreeze AC. Setup fails at step 2.,Installation Issue,Medium,EcoBreeze AC,facing installation issue wit ecobreeze ac setup fails step,66
+50,"Vision LED TV is lost. It stopped working after just 3 days. Also, I contacted support on 18 May but got no response.",Product Defect,High,Vision LED TV,vision led tv lost stopped working day also contacted support may got response,117
+51,"Can you tell me more about the ProTab X1 warranty? Also, is it available in white? Also, I contacted support on 04 April but got no response. Delivery expected by 04 April.",General Inquiry,High,ProTab X1,tell protab x warranty also available white also contacted support april got response delivery expected april,172
+52,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in white? Also, I contacted support on 13 April but got no response.",General Inquiry,High,FitRun Treadmill,tell fitrun treadmill warranty also available white also contacted support april got response,148
+53,Facing installation issue with EcoBreeze AC. Setup fails at step 6. Delivery expected by 26 April.,Installation Issue,High,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step delivery expected april,98
+54,Payment issue fr mi . I was charged twice fr order #45453.,Billing Problem,High,UltraClean Vacuum,payment issue fr mi charged twice fr order,58
+55,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Medium,SoundWave 300,cant log account keep showing blocked help,56
+56,Facing installation issue with Vision LED TV. Setup fails at step 2.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+57,Payment issue for my Vision LED TV. I was not refunded for order #77581.,Billing Problem,Medium,Vision LED TV,payment issue vision led tv refunded order,72
+58,"Can you tell me more about the  warranty? Also, is it available in white? Delivery expected by 19 March.",Unknown,High,Vision LED TV,tell warranty also available white delivery expected march,104
+59,I ordered SmartWatch V2 but got PowerMax Battery instead. My order number is #65084. Delivery expected by 12 April.,Wrong Item,Unknown,SmartWatch V2,ordered smartwatch v got powermax battery instead order number delivery expected april,115
+60,Payment issue for my ProTab X1. I was debited incorrectly for order #19053.,Billing Problem,Medium,ProTab X1,payment issue protab x debited incorrectly order,75
+61,"Payment issue for my FitRun Treadmill. I was overbilled for order #84201. Also, I contacted support on 16 May but got no response.",Billing Problem,High,FitRun Treadmill,payment issue fitrun treadmill overbilled order also contacted support may got response,130
+62,Payment problem for order #67337. Need urgent help. Delivery expected by 19 March.,Billing Problem,Low,PhotoSnap Cam,payment problem order need urgent help delivery expected march,82
+63,"I ordered PowerMax Battery but got ProTab X1 instead. My order number is #97429. Also, I contacted support on 07 April but got no response.",Wrong Item,High,PowerMax Battery,ordered powermax battery got protab x instead order number also contacted support april got response,139
+64,PhotoSnap Cam is faulty. It stopped working after just 7 days.,Product Defect,Medium,PhotoSnap Cam,photosnap cam faulty stopped working day,62
+65,"Can you tell me more about the Vision LED TV warranty? Also, is it available in blue?",General Inquiry,Low,Vision LED TV,tell vision led tv warranty also available blue,85
+66,Order #95306 for PhotoSnap Cam is 17 days late. Ordered on 09 March.,Late Delivery,Low,PhotoSnap Cam,order photosnap cam day late ordered march,68
+67,Order #96823 for SmartWatch V2 is 14 days late. Ordered on 16 March.,Late Delivery,Medium,SmartWatch V2,order smartwatch v day late ordered march,68
+68,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,High,Vision LED TV,cant log account keep showing captcha failed help,63
+69,"Facing installation issue with SoundWave 300. Setup fails at step 6. Also, I contacted support on 06 April but got no response.",Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step also contacted support april got response,127
+70,Payment issue for my SmartWatch V2. I was not refunded for order #40696.,Billing Problem,Low,SmartWatch V2,payment issue smartwatch v refunded order,72
+71,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red? Also, I contacted support on 11 March but got no response.",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available red also contacted support march got response,143
+72,Order #53287 for PowerMax Battery is 8 days late. Ordered on 08 April.,Late Delivery,Medium,PowerMax Battery,order powermax battery day late ordered april,70
+73,Facing installation issue with . Setup fails at step 2.,Installation Issue,Medium,UltraClean Vacuum,facing installation issue setup fails step,55
+74,Facing installation issue with . Setup fails at step 2.,Installation Issue,High,ProTab X1,facing installation issue setup fails step,55
+75, is error. It stopped working after just 5 days.,Product Defect,Low,EcoBreeze AC,error stopped working day,48
+76,Facing installation issue with . Setup fails at step 3.,Installation Issue,Unknown,EcoBreeze AC,facing installation issue setup fails step,55
+77,"Order #61645 for PhotoSnap Cam is 18 days late. Ordered on 03 April. Also, I contacted support on 03 April but got no response.",Late Delivery,Medium,PhotoSnap Cam,order photosnap cam day late ordered april also contacted support april got response,127
+78,Payment issue for my SoundWave 300. I was overbilled for order #57017.,Billing Problem,Medium,SoundWave 300,payment issue soundwave overbilled order,70
+79,Payment issue fr mi PhotoSnap Cam. I was underbilled fr order #45489.,Billing Problem,Medium,PhotoSnap Cam,payment issue fr mi photosnap cam underbilled fr order,69
+80,"Order #29495 for ProTab X1 is 14 days late. Ordered on 01 May. Also, I contacted support on 01 May but got no response.",Unknown,High,ProTab X1,order protab x day late ordered may also contacted support may got response,119
+81,I ordered PhotoSnap Cam but got FitRun Treadmill instead. My order number is #64401.,Wrong Item,Medium,PhotoSnap Cam,ordered photosnap cam got fitrun treadmill instead order number,84
+82,"Can you tell me more about the SoundWave 300 warranty? Also, is it available in black?",General Inquiry,High,SoundWave 300,tell soundwave warranty also available black,86
+83,Facing installation issue with . Setup fails at step 1.,Installation Issue,High,FitRun Treadmill,facing installation issue setup fails step,55
+84,,General Inquiry,Low,RoboChef Blender,,0
+85,"Can you tell me more about the  warranty? Also, is it available in blue?",General Inquiry,Medium,SmartWatch V2,tell warranty also available blue,72
+86,I ordered SmartWatch V2 but got SoundWave 300 instead. My order number is #24006.,Wrong Item,Medium,SmartWatch V2,ordered smartwatch v got soundwave instead order number,81
+87,PowerMax Battery is glitchy. It stopped working after just 7 days.,Product Defect,Low,PowerMax Battery,powermax battery glitchy stopped working day,66
+88,I ordered  but got SmartWatch V2 instead. My order number is #67796.,Wrong Item,High,PowerMax Battery,ordered got smartwatch v instead order number,68
+89,"Can you tell me more about the ProTab X1 warranty? Also, is it available in white? Also, I contacted support on 08 March but got no response.",General Inquiry,High,ProTab X1,tell protab x warranty also available white also contacted support march got response,141
+90,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in black? Delivery expected by 09 April.",General Inquiry,High,PowerMax Battery,tell powermax battery warranty also available black delivery expected april,120
+91,Order #70536 for PowerMax Battery is 4 days late. Ordered on 01 May.,Late Delivery,Unknown,PowerMax Battery,order powermax battery day late ordered may,68
+92,I ordered  but got SoundWave 300 instead. My order number is #93122.,Wrong Item,Medium,PhotoSnap Cam,ordered got soundwave instead order number,68
+93,I ordered SmartWatch V2 but got ProTab X1 instead. My order number is #76301.,Wrong Item,High,SmartWatch V2,ordered smartwatch v got protab x instead order number,77
+94,Facing installation issue with PowerMax Battery. Setup fails at step 1.,Installation Issue,Low,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+95,Order #84203 for Vision LED TV is 5 days late. Ordered on 30 April.,Late Delivery,High,Vision LED TV,order vision led tv day late ordered april,67
+96,Facing installation issue with PowerMax Battery. Setup fails at step 6. Delivery expected by 04 May.,Installation Issue,Medium,PowerMax Battery,facing installation issue powermax battery setup fails step delivery expected may,100
+97,"Can you tell me more about teh ProTab X1 warranty? Also, is it available in white?",General Inquiry,High,ProTab X1,tell teh protab x warranty also available white,82
+98,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Medium,SoundWave 300,cant log account keep showing blocked help,56
+99,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in black?",General Inquiry,Medium,SmartWatch V2,tell smartwatch v warranty also available black,86
+100,Facing installation issue with SoundWave 300. Setup fails at step 4.,Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step,68
+101,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Medium,UltraClean Vacuum,cant log account keep showing unknown issue help,62
+102,"Can you tell me more about the ProTab X1 warranty? Also, is it available in blue?",General Inquiry,High,ProTab X1,tell protab x warranty also available blue,81
+103,Payment problem for order #77517. Need urgent help.,Billing Problem,High,UltraClean Vacuum,payment problem order need urgent help,51
+104,Payment issue for my PowerMax Battery. I was charged twice for order #97621.,Billing Problem,High,PowerMax Battery,payment issue powermax battery charged twice order,76
+105,"Can you tell me more about teh ProTab X1 warranty? Also, is it available in black? Also, I contacted support on 28 April but got no response.",Unknown,Low,ProTab X1,tell teh protab x warranty also available black also contacted support april got response,141
+106,Payment issue for my ProTab X1. I was underbilled for order #71399. Delivery expected by 30 March.,Billing Problem,High,ProTab X1,payment issue protab x underbilled order delivery expected march,98
+107,Order #36632 for EcoBreeze AC is 15 days late. Ordered on 13 May.,Late Delivery,High,EcoBreeze AC,order ecobreeze ac day late ordered may,65
+108,Payment issue fr mi SmartWatch V2. I was debited incorrectly fr order #98192.,Billing Problem,Low,SmartWatch V2,payment issue fr mi smartwatch v debited incorrectly fr order,77
+109,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in white?",General Inquiry,Unknown,EcoBreeze AC,tell ecobreeze ac warranty also available white,85
+110,Can't log in to my account. Keeps showing reset required. Help!,Unknown,Low,PhotoSnap Cam,cant log account keep showing reset required help,63
+111,Order #28158 for  is 6 days late. Ordered on 05 May.,Late Delivery,Medium,UltraClean Vacuum,order day late ordered may,52
+112,Can't log in to my account. Keeps showing error. Help!,Account Access,Unknown,SoundWave 300,cant log account keep showing error help,54
+113,Is this item in stock?,General Inquiry,High,ProTab X1,item stock,22
+114,Can't log in to mi account. Keeps showing unknown issue. Help!,Account Access,Medium,PowerMax Battery,cant log mi account keep showing unknown issue help,62
+115,I ordered RoboChef Blender but got ProTab X1 instead. My order number is #79479.,Wrong Item,Low,RoboChef Blender,ordered robochef blender got protab x instead order number,80
+116,Order #85238 for PowerMax Battery is 3 days late. Ordered on 15 April.,Late Delivery,Medium,PowerMax Battery,order powermax battery day late ordered april,70
+117,"Facing installation issue with Vision LED TV. Setup fails at step 4. Also, I contacted support on 24 April but got no response.",Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step also contacted support april got response,127
+118,Facing installation issue with FitRun Treadmill. Setup fails at step 1. Delivery expected by 19 May.,Installation Issue,Medium,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step delivery expected may,100
+119,Vision LED TV is malfunction. It stopped working after just 6 days.,Product Defect,High,Vision LED TV,vision led tv malfunction stopped working day,67
+120,Facing installation issue with UltraClean Vacuum. Setup fails at step 6.,Unknown,Medium,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+121,Order #55525 for RoboChef Blender is 1 days late. Ordered on 08 March.,Late Delivery,Low,RoboChef Blender,order robochef blender day late ordered march,70
+122,Payment issue for my . I was overbilled for order #65725.,Billing Problem,High,Vision LED TV,payment issue overbilled order,57
+123,"Can you tell me more about the ProTab X1 warranty? Also, is it available in white?",General Inquiry,High,ProTab X1,tell protab x warranty also available white,82
+124,SmartWatch V2 is defective. It stopped working after just 1 days.,Product Defect,High,SmartWatch V2,smartwatch v defective stopped working day,65
+125,Vision LED TV is damaged. It stopped working after just 4 days.,Unknown,Unknown,Vision LED TV,vision led tv damaged stopped working day,63
+126,Can't log in to my account. Keeps showing error. Help!,Account Access,High,ProTab X1,cant log account keep showing error help,54
+127,"Can't log in to my account. Keeps showing captcha failed. Help! Also, I contacted support on 06 April but got no response.",Account Access,Low,Vision LED TV,cant log account keep showing captcha failed help also contacted support april got response,122
+128,Order #68715 for RoboChef Blender is 17 days late. Ordered on 19 April.,Late Delivery,Low,RoboChef Blender,order robochef blender day late ordered april,71
+129,Product info needed.,General Inquiry,Medium,FitRun Treadmill,product info needed,20
+130,Payment issue for my FitRun Treadmill. I was overbilled for order #17828.,Billing Problem,Unknown,FitRun Treadmill,payment issue fitrun treadmill overbilled order,73
+131,Facing installation issue with EcoBreeze AC. Setup fails at step 6.,Installation Issue,Low,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+132,"PhotoSnap Cam is glitchy. It stopped working after just 12 days. Also, I contacted support on 29 April but got no response.",Product Defect,High,PhotoSnap Cam,photosnap cam glitchy stopped working day also contacted support april got response,123
+133,"Payment issue for my SmartWatch V2. I was underbilled for order #94863. Also, I contacted support on 09 April but got no response.",Billing Problem,High,SmartWatch V2,payment issue smartwatch v underbilled order also contacted support april got response,130
+134,ProTab X1 is glitchy. It stopped working after just 12 days.,Product Defect,Medium,ProTab X1,protab x glitchy stopped working day,60
+135,Order #97549 for ProTab X1 is 5 days late. Ordered on 30 April.,Late Delivery,Medium,ProTab X1,order protab x day late ordered april,63
+136,Facing installation issue with PhotoSnap Cam. Setup fails at step 6.,Installation Issue,High,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+137,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,High,PowerMax Battery,cant log account keep showing captcha failed help,63
+138,"Order #58122 for RoboChef Blender is 9 days late. Ordered on 10 May. Also, I contacted support on 10 May but got no response.",Late Delivery,High,RoboChef Blender,order robochef blender day late ordered may also contacted support may got response,125
+139,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,ProTab X1,cant log account keep showing reset required help,63
+140,Payment issue for my UltraClean Vacuum. I was debited incorrectly for order #76140.,Billing Problem,Medium,UltraClean Vacuum,payment issue ultraclean vacuum debited incorrectly order,83
+141,,Installation Issue,Low,Vision LED TV,,0
+142,FitRun Treadmill is charged. It stopped working after just 12 days.,Product Defect,High,FitRun Treadmill,fitrun treadmill charged stopped working day,67
+143,Can't log in to my account. Keeps showing error. Help!,Account Access,Low,RoboChef Blender,cant log account keep showing error help,54
+144,I ordered EcoBreeze AC but got UltraClean Vacuum instead. My order number is #97605.,Wrong Item,High,EcoBreeze AC,ordered ecobreeze ac got ultraclean vacuum instead order number,84
+145,Account problem. Assistance needed.,Account Access,Unknown,FitRun Treadmill,account problem assistance needed,35
+146,Payment issue for my PowerMax Battery. I was overbilled for order #18696.,Billing Problem,Low,PowerMax Battery,payment issue powermax battery overbilled order,73
+147,SmartWatch V2 is no response. It stopped working after just 5 days. Delivery expected by 25 April.,Product Defect,High,SmartWatch V2,smartwatch v response stopped working day delivery expected april,98
+148,Vision LED TV is broken. It stopped working after just 1 days.,Product Defect,High,Vision LED TV,vision led tv broken stopped working day,62
+149,Facing installation issue with . Setup fails at step 2.,Unknown,High,PowerMax Battery,facing installation issue setup fails step,55
+150,Order #31364 placed on 15 May still not here.,Late Delivery,High,EcoBreeze AC,order placed may still,45
+151,Both my PowerMax Battery and FitRun Treadmill are not received. Both giving issues. Delivery expected by 16 April.,Product Defect,Low,PowerMax Battery,powermax battery fitrun treadmill received giving issue delivery expected april,114
+152,Both my PhotoSnap Cam and Vision LED TV are faulty. Both giving issues.,Product Defect,High,PhotoSnap Cam,photosnap cam vision led tv faulty giving issue,71
+153, is not working. It stopped working after just 12 days.,Product Defect,High,ProTab X1,working stopped working day,55
+154,"Can you tell me more about the ProTab X1 warranty? Also, is it available in blue?",General Inquiry,Unknown,ProTab X1,tell protab x warranty also available blue,81
+155,"Payment issue for my . I was not refunded for order #59838. Also, I contacted support on 14 May but got no response.",Billing Problem,Low,FitRun Treadmill,payment issue refunded order also contacted support may got response,116
+156,"Can you tell me more about teh EcoBreeze AC warranty? Also, is it available in black?",General Inquiry,Low,EcoBreeze AC,tell teh ecobreeze ac warranty also available black,85
+157,Order #58051 for RoboChef Blender is 16 days late. Ordered on 07 March.,Late Delivery,High,RoboChef Blender,order robochef blender day late ordered march,71
+158,Payment issue for my EcoBreeze AC. I was charged twice for order #26025.,Billing Problem,Low,EcoBreeze AC,payment issue ecobreeze ac charged twice order,72
+159,Order #40339 for PhotoSnap Cam is 13 days late. Ordered on 25 April.,Late Delivery,Low,PhotoSnap Cam,order photosnap cam day late ordered april,68
+160,Payment issue fr mi RoboChef Blender. I was charged twice fr order #81706.,Billing Problem,Medium,RoboChef Blender,payment issue fr mi robochef blender charged twice fr order,74
+161,Order #90105 for UltraClean Vacuum is 1 days late. Ordered on 03 March.,Late Delivery,Low,UltraClean Vacuum,order ultraclean vacuum day late ordered march,71
+162,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,SoundWave 300,cant log account keep showing captcha failed help,63
+163,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,Vision LED TV,cant log account keep showing captcha failed help,63
+164,"Can you tell me more about the ProTab X1 warranty? Also, is it available in white?",General Inquiry,Low,ProTab X1,tell protab x warranty also available white,82
+165,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in red?",General Inquiry,High,PowerMax Battery,tell powermax battery warranty also available red,87
+166,"Account problem. Assistance needed. Also, I contacted support on 12 March but got no response.",Account Access,Medium,PowerMax Battery,account problem assistance needed also contacted support march got response,94
+167,"Can't log in to my account. Keeps showing error. Help! Also, I contacted support on 23 March but got no response.",Account Access,Low,PowerMax Battery,cant log account keep showing error help also contacted support march got response,113
+168,"Order #58396 for PowerMax Battery is 16 days late. Ordered on 03 April. Also, I contacted support on 03 April but got no response.",Late Delivery,High,PowerMax Battery,order powermax battery day late ordered april also contacted support april got response,130
+169,Payment issue for my SoundWave 300. I was not refunded for order #45749.,Billing Problem,High,SoundWave 300,payment issue soundwave refunded order,72
+170,Payment issue for my Vision LED TV. I was debited incorrectly for order #63168.,Billing Problem,High,Vision LED TV,payment issue vision led tv debited incorrectly order,79
+171,Account problem. Assistance needed.,Account Access,High,FitRun Treadmill,account problem assistance needed,35
+172,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in blue?",General Inquiry,Low,EcoBreeze AC,tell ecobreeze ac warranty also available blue,84
+173,Order #84031 for SmartWatch V2 is 6 days late. Ordered on 04 March.,Unknown,Low,SmartWatch V2,order smartwatch v day late ordered march,67
+174,"Received wrong product, order mixed up.",Wrong Item,Medium,EcoBreeze AC,received wrong product order mixed,39
+175,Can't log in to mi account. Keeps showing unknown issue. Help!,Account Access,Medium,EcoBreeze AC,cant log mi account keep showing unknown issue help,62
+176,Is this item in stock? Delivery expected by 05 May.,General Inquiry,Medium,SoundWave 300,item stock delivery expected may,51
+177,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,SoundWave 300,cant log account keep showing reset required help,63
+178,"Can't access my account. Also, I contacted support on 12 May but got no response.",Account Access,High,SmartWatch V2,cant access account also contacted support may got response,81
+179,Order #34198 for SmartWatch V2 is 15 days late. Ordered on 05 March.,Late Delivery,Medium,SmartWatch V2,order smartwatch v day late ordered march,68
+180,Facing installation issue with SoundWave 300. Setup fails at step 4.,Installation Issue,Low,SoundWave 300,facing installation issue soundwave setup fails step,68
+181,Facing installation issue with RoboChef Blender. Setup fails at step 6.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+182,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in red? Also, I contacted support on 16 March but got no response.",General Inquiry,High,SmartWatch V2,tell smartwatch v warranty also available red also contacted support march got response,143
+183,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,Vision LED TV,cant log account keep showing reset required help,63
+184,Payment issue for my FitRun Treadmill. I was overbilled for order #81052.,Billing Problem,High,FitRun Treadmill,payment issue fitrun treadmill overbilled order,73
+185,"I ordered SmartWatch V2 but got PowerMax Battery instead. My order number is #37056. Also, I contacted support on 06 May but got no response.",Wrong Item,Low,SmartWatch V2,ordered smartwatch v got powermax battery instead order number also contacted support may got response,141
+186,PowerMax Battery is not working. It stopped working after just 5 days.,Product Defect,Low,PowerMax Battery,powermax battery working stopped working day,70
+187,Order #35506 for EcoBreeze AC is 8 days late. Ordered on 27 March.,Late Delivery,High,EcoBreeze AC,order ecobreeze ac day late ordered march,66
+188,RoboChef Blender is malfunction. It stopped working after just 3 days.,Product Defect,High,RoboChef Blender,robochef blender malfunction stopped working day,70
+189,Both my PhotoSnap Cam and SoundWave 300 are cracked. Both giving issues. Delivery expected by 17 March.,Product Defect,Medium,PhotoSnap Cam,photosnap cam soundwave cracked giving issue delivery expected march,103
+190,Facing installation issue with RoboChef Blender. Setup fails at step 2.,Installation Issue,Medium,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+191,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in red?",General Inquiry,High,UltraClean Vacuum,tell ultraclean vacuum warranty also available red,88
+192,Facing installation issue with Vision LED TV. Setup fails at step 5.,Unknown,Medium,Vision LED TV,facing installation issue vision led tv setup fails step,68
+193,I ordered EcoBreeze AC but got PowerMax Battery instead. My order number is #70963.,Wrong Item,Medium,EcoBreeze AC,ordered ecobreeze ac got powermax battery instead order number,83
+194,Order #86969 for FitRun Treadmill is 16 days late. Ordered on 04 May.,Unknown,Low,FitRun Treadmill,order fitrun treadmill day late ordered may,69
+195,"Payment issue fr mi PhotoSnap Cam. I was not refunded fr order #55921. Also, I contacted support on 09 March but got no response.",Billing Problem,Low,PhotoSnap Cam,payment issue fr mi photosnap cam refunded fr order also contacted support march got response,129
+196,Vision LED TV is late. It stopped working after just 7 days.,Unknown,High,Vision LED TV,vision led tv late stopped working day,60
+197,"Not able to install my product. Also, I contacted support on 09 March but got no response.",Installation Issue,Medium,PowerMax Battery,able install product also contacted support march got response,90
+198,I ordered SmartWatch V2 but got SmartWatch V2 instead. My order number is #52790.,Unknown,Medium,SmartWatch V2,ordered smartwatch v got smartwatch v instead order number,81
+199,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,PhotoSnap Cam,cant log account keep showing unknown issue help,62
+200,"I ordered UltraClean Vacuum but got UltraClean Vacuum instead. My order number is #31416. Also, I contacted support on 02 April but got no response.",Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got ultraclean vacuum instead order number also contacted support april got response,148
+201,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in red?",General Inquiry,Medium,SmartWatch V2,tell smartwatch v warranty also available red,84
+202,Facing installation issue with . Setup fails at step 3.,Installation Issue,Medium,SmartWatch V2,facing installation issue setup fails step,55
+203,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,PhotoSnap Cam,cant log account keep showing reset required help,63
+204,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in blue?",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available blue,88
+205,"Can you tell me more about the Vision LED TV warranty? Also, is it available in blue? Also, I contacted support on 29 March but got no response.",General Inquiry,High,Vision LED TV,tell vision led tv warranty also available blue also contacted support march got response,144
+206,Facing installation issue with RoboChef Blender. Setup fails at step 5.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+207,"Can't log in to my account. Keeps showing reset required. Help! Also, I contacted support on 04 May but got no response. Delivery expected by 04 May.",Account Access,Medium,RoboChef Blender,cant log account keep showing reset required help also contacted support may got response delivery expected may,149
+208,UltraClean Vacuum is defective. It stopped working after just 1 days.,Product Defect,Low,UltraClean Vacuum,ultraclean vacuum defective stopped working day,69
+209,Order #46182 for EcoBreeze AC is 9 days late. Ordered on 19 May.,Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered may,64
+210,Facing installation issue with SmartWatch V2. Setup fails at step 1.,Installation Issue,Low,SmartWatch V2,facing installation issue smartwatch v setup fails step,68
+211,I ordered  but got SoundWave 300 instead. My order number is #23976.,Wrong Item,High,EcoBreeze AC,ordered got soundwave instead order number,68
+212,,Product Defect,Medium,SmartWatch V2,,0
+213,Payment issue for my Vision LED TV. I was debited incorrectly for order #39849.,Billing Problem,Low,Vision LED TV,payment issue vision led tv debited incorrectly order,79
+214,Payment problem fr order #94367. Need urgent help.,Billing Problem,Low,SoundWave 300,payment problem fr order need urgent help,50
+215,Order #26115 for  is 4 days late. Ordered on 24 April.,Late Delivery,Low,ProTab X1,order day late ordered april,54
+216,I ordered  but got PowerMax Battery instead. My order number is #90318.,Wrong Item,High,SmartWatch V2,ordered got powermax battery instead order number,71
+217,Payment issue for my SmartWatch V2. I was underbilled for order #44795.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v underbilled order,71
+218,Facing installation issue with UltraClean Vacuum. Setup fails at step 3.,Installation Issue,Low,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+219,"Facing installation issue with . Setup fails at step 2. Also, I contacted support on 19 March but got no response.",Installation Issue,Low,PowerMax Battery,facing installation issue setup fails step also contacted support march got response,114
+220,Not able to install my product.,Installation Issue,High,SmartWatch V2,able install product,31
+221,Facing installation issue with RoboChef Blender. Setup fails at step 1.,Installation Issue,Medium,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+222,"Payment issue for my PowerMax Battery. I was not refunded for order #68783. Also, I contacted support on 13 March but got no response.",Billing Problem,Low,PowerMax Battery,payment issue powermax battery refunded order also contacted support march got response,134
+223,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red?",General Inquiry,Unknown,PhotoSnap Cam,tell photosnap cam warranty also available red,84
+224,,Installation Issue,Medium,PowerMax Battery,,0
+225,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,Medium,ProTab X1,tell warranty also available red,71
+226,Facing installation issue with SoundWave 300. Setup fails at step 1.,Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step,68
+227,Not able to install my product. Delivery expected by 26 March.,Installation Issue,Low,PhotoSnap Cam,able install product delivery expected march,62
+228,SoundWave 300 is late. It stopped working after just 12 days.,Product Defect,Unknown,SoundWave 300,soundwave late stopped working day,61
+229,Payment issue for my PowerMax Battery. I was overbilled for order #61694.,Billing Problem,Medium,PowerMax Battery,payment issue powermax battery overbilled order,73
+230,Order #98576 for PowerMax Battery is 3 days late. Ordered on 06 May.,Late Delivery,Medium,PowerMax Battery,order powermax battery day late ordered may,68
+231,Payment issue for my . I was charged twice for order #70857.,Billing Problem,High,PhotoSnap Cam,payment issue charged twice order,60
+232,"Both my UltraClean Vacuum and ProTab X1 are lost. Both giving issues. Also, I contacted support on 24 March but got no response.",Product Defect,High,UltraClean Vacuum,ultraclean vacuum protab x lost giving issue also contacted support march got response,128
+233,Payment issue for my . I was overbilled for order #41191.,Billing Problem,Medium,UltraClean Vacuum,payment issue overbilled order,57
+234,EcoBreeze AC is not received. It stopped working after just 4 days.,Product Defect,Medium,EcoBreeze AC,ecobreeze ac received stopped working day,67
+235,Can't log in to my account. Keeps showing error. Help!,Account Access,Low,FitRun Treadmill,cant log account keep showing error help,54
+236,Order #61028 for PhotoSnap Cam is 6 days late. Ordered on 08 March.,Late Delivery,Unknown,PhotoSnap Cam,order photosnap cam day late ordered march,67
+237,"PowerMax Battery is glitchy. It stopped working after just 10 days. Also, I contacted support on 14 May but got no response.",Product Defect,High,PowerMax Battery,powermax battery glitchy stopped working day also contacted support may got response,124
+238,"Can you tell me more about the ProTab X1 warranty? Also, is it available in blue?",General Inquiry,Low,ProTab X1,tell protab x warranty also available blue,81
+239," is defective. It stopped working after just 2 days. Also, I contacted support on 11 March but got no response.",Product Defect,Medium,ProTab X1,defective stopped working day also contacted support march got response,111
+240,"Can't log in to my account. Keeps showing captcha failed. Help! Also, I contacted support on 15 March but got no response. Delivery expected by 15 March.",Account Access,Low,Vision LED TV,cant log account keep showing captcha failed help also contacted support march got response delivery expected march,153
+241,I ordered RoboChef Blender but got UltraClean Vacuum instead. My order number is #75624.,Wrong Item,Low,RoboChef Blender,ordered robochef blender got ultraclean vacuum instead order number,88
+242,"Can't log in to my account. Keeps showing error. Help! Also, I contacted support on 13 April but got no response. Delivery expected by 13 April.",Account Access,Low,RoboChef Blender,cant log account keep showing error help also contacted support april got response delivery expected april,144
+243,Facing installation issue with EcoBreeze AC. Setup fails at step 6.,Installation Issue,High,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+244,Order #99210 for FitRun Treadmill is 11 days late. Ordered on 30 March.,Late Delivery,Medium,FitRun Treadmill,order fitrun treadmill day late ordered march,71
+245,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Low,ProTab X1,cant log account keep showing reset required help,63
+246,FitRun Treadmill is no response. It stopped working after just 3 days.,Product Defect,Medium,FitRun Treadmill,fitrun treadmill response stopped working day,70
+247,"Can't access my account. Also, I contacted support on 28 April but got no response. Delivery expected by 28 April.",Account Access,High,ProTab X1,cant access account also contacted support april got response delivery expected april,114
+248," is malfunction. It stopped working after just 3 days. Also, I contacted support on 12 March but got no response.",Product Defect,High,UltraClean Vacuum,malfunction stopped working day also contacted support march got response,113
+249,"Can you tell me more about the  warranty? Also, is it available in black?",General Inquiry,High,FitRun Treadmill,tell warranty also available black,73
+250,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Low,ProTab X1,cant log account keep showing blocked help,56
+251,"Can you tell me more about the SoundWave 300 warranty? Also, is it available in white?",General Inquiry,High,SoundWave 300,tell soundwave warranty also available white,86
+252,EcoBreeze AC is damaged. It stopped working after just 11 days.,Product Defect,Medium,EcoBreeze AC,ecobreeze ac damaged stopped working day,63
+253,,Wrong Item,Medium,EcoBreeze AC,,0
+254,Facing installation issue with FitRun Treadmill. Setup fails at step 5.,Installation Issue,Medium,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+255,ProTab X1 is damaged. It stopped working after just 7 days.,Product Defect,High,ProTab X1,protab x damaged stopped working day,59
+256,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,PowerMax Battery,cant log account keep showing reset required help,63
+257,Payment issue for my SmartWatch V2. I was underbilled for order #91931.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v underbilled order,71
+258,Order #55349 placed on 10 March still not here.,Late Delivery,Low,Vision LED TV,order placed march still,47
+259,Can't log in to my account. Keeps showing blocked. Help!,Account Access,High,EcoBreeze AC,cant log account keep showing blocked help,56
+260,"Facing installation issue with PowerMax Battery. Setup fails at step 3. Also, I contacted support on 15 April but got no response.",Installation Issue,High,PowerMax Battery,facing installation issue powermax battery setup fails step also contacted support april got response,130
+261,Can't log in to my account. Keeps showing error. Help!,Account Access,High,Vision LED TV,cant log account keep showing error help,54
+262,Facing installation issue with PowerMax Battery. Setup fails at step 4.,Installation Issue,Medium,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+263,Payment issue for my FitRun Treadmill. I was charged twice for order #99357.,Billing Problem,Unknown,FitRun Treadmill,payment issue fitrun treadmill charged twice order,76
+264,"EcoBreeze AC is missing. It stopped working after just 6 days. Also, I contacted support on 13 March but got no response.",Product Defect,Medium,EcoBreeze AC,ecobreeze ac missing stopped working day also contacted support march got response,121
+265,Payment issue for my SoundWave 300. I was overbilled for order #26278.,Billing Problem,High,SoundWave 300,payment issue soundwave overbilled order,70
+266,Payment issue for my . I was underbilled for order #75981.,Billing Problem,Medium,Vision LED TV,payment issue underbilled order,58
+267,Facing installation issue wit EcoBreeze AC. Setup fails at step 3.,Installation Issue,Low,EcoBreeze AC,facing installation issue wit ecobreeze ac setup fails step,66
+268," is glitchy. It stopped working after just 11 days. Also, I contacted support on 07 March but got no response.",Product Defect,Low,SmartWatch V2,glitchy stopped working day also contacted support march got response,110
+269,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,SoundWave 300,cant log account keep showing captcha failed help,63
+270,I ordered ProTab X1 but got PowerMax Battery instead. My order number is #96264.,Wrong Item,Medium,ProTab X1,ordered protab x got powermax battery instead order number,80
+271,Can't log in to my account. Keeps showing error. Help!,Account Access,Medium,SmartWatch V2,cant log account keep showing error help,54
+272,Vision LED TV is not received. It stopped working after just 10 days.,Product Defect,Medium,Vision LED TV,vision led tv received stopped working day,69
+273,I ordered  but got SmartWatch V2 instead. My order number is #19513.,Wrong Item,High,FitRun Treadmill,ordered got smartwatch v instead order number,68
+274,Payment issue for my SmartWatch V2. I was underbilled for order #56445. Delivery expected by 18 March.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v underbilled order delivery expected march,102
+275,I ordered PhotoSnap Cam but got UltraClean Vacuum instead. My order number is #77017. Delivery expected by 28 April.,Wrong Item,Low,PhotoSnap Cam,ordered photosnap cam got ultraclean vacuum instead order number delivery expected april,116
+276,Account problem. Assistance needed.,Unknown,Low,SmartWatch V2,account problem assistance needed,35
+277,Can't log in to mi account. Keeps showing captcha failed. Help!,Account Access,High,SmartWatch V2,cant log mi account keep showing captcha failed help,63
+278,Login not working.,Unknown,Low,Vision LED TV,login working,18
+279,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in white?",General Inquiry,High,RoboChef Blender,tell robochef blender warranty also available white,89
+280,Both my ProTab X1 and EcoBreeze AC are late. Both giving issues.,Product Defect,Low,ProTab X1,protab x ecobreeze ac late giving issue,64
+281,,Billing Problem,Medium,ProTab X1,,0
+282,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Low,SmartWatch V2,cant log account keep showing unknown issue help,62
+283,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in white?",General Inquiry,Low,RoboChef Blender,tell robochef blender warranty also available white,89
+284,Facing installation issue with Vision LED TV. Setup fails at step 1.,Installation Issue,High,Vision LED TV,facing installation issue vision led tv setup fails step,68
+285,I ordered EcoBreeze AC but got PowerMax Battery instead. My order number is #69733.,Wrong Item,Low,EcoBreeze AC,ordered ecobreeze ac got powermax battery instead order number,83
+286,Facing installation issue with RoboChef Blender. Setup fails at step 6. Delivery expected by 29 April.,Installation Issue,High,RoboChef Blender,facing installation issue robochef blender setup fails step delivery expected april,102
+287,Payment issue for my PhotoSnap Cam. I was charged twice for order #85816.,Billing Problem,High,PhotoSnap Cam,payment issue photosnap cam charged twice order,73
+288,Facing installation issue wit RoboChef Blender. Setup fails at step 6.,Installation Issue,Medium,RoboChef Blender,facing installation issue wit robochef blender setup fails step,70
+289,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in blue?",General Inquiry,Low,SmartWatch V2,tell smartwatch v warranty also available blue,85
+290,Can't log in to my account. Keeps showing unknown issue. Help! Delivery expected by 22 April.,Account Access,High,EcoBreeze AC,cant log account keep showing unknown issue help delivery expected april,93
+291,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,PhotoSnap Cam,cant log account keep showing captcha failed help,63
+292,UltraClean Vacuum is damaged. It stopped working after just 9 days.,Product Defect,High,UltraClean Vacuum,ultraclean vacuum damaged stopped working day,67
+293,"Can you tell me more about the  warranty? Also, is it available in blue?",General Inquiry,Medium,EcoBreeze AC,tell warranty also available blue,72
+294,,Wrong Item,Low,UltraClean Vacuum,,0
+295,I ordered ProTab X1 but got EcoBreeze AC instead. My order number is #26906.,Wrong Item,Medium,ProTab X1,ordered protab x got ecobreeze ac instead order number,76
+296,Order #21993 placed on 21 March still not here.,Late Delivery,Medium,FitRun Treadmill,order placed march still,47
+297,Facing installation issue with UltraClean Vacuum. Setup fails at step 3.,Installation Issue,Medium,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+298,,Late Delivery,High,RoboChef Blender,,0
+299,I ordered ProTab X1 but got RoboChef Blender instead. My order number is #56658.,Wrong Item,Medium,ProTab X1,ordered protab x got robochef blender instead order number,80
+300,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,FitRun Treadmill,cant log account keep showing captcha failed help,63
+301,"Can you tell me more about teh UltraClean Vacuum warranty? Also, is it available in black?",General Inquiry,Medium,UltraClean Vacuum,tell teh ultraclean vacuum warranty also available black,90
+302,Payment issue for my SmartWatch V2. I was underbilled for order #54150.,Billing Problem,Low,SmartWatch V2,payment issue smartwatch v underbilled order,71
+303,Want to know more about warranty.,General Inquiry,Medium,Vision LED TV,want know warranty,33
+304,Facing installation issue with FitRun Treadmill. Setup fails at step 4.,Installation Issue,High,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+305,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in white?",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available white,89
+306,Payment issue for my PhotoSnap Cam. I was debited incorrectly for order #97137.,Billing Problem,Low,PhotoSnap Cam,payment issue photosnap cam debited incorrectly order,79
+307,,Installation Issue,Unknown,PowerMax Battery,,0
+308,"Can you tell me more about teh Vision LED TV warranty? Also, is it available in red?",Unknown,Medium,Vision LED TV,tell teh vision led tv warranty also available red,84
+309,Order #92183 fr FitRun Treadmill is 11 days late. Ordered on 01 April. Delivery expected by 01 April.,Late Delivery,Low,FitRun Treadmill,order fr fitrun treadmill day late ordered april delivery expected april,101
+310,"Is this item in stock? Also, I contacted support on 11 April but got no response.",General Inquiry,High,RoboChef Blender,item stock also contacted support april got response,81
+311,Payment issue for my SoundWave 300. I was not refunded for order #10599.,Billing Problem,High,SoundWave 300,payment issue soundwave refunded order,72
+312,I ordered PowerMax Battery but got EcoBreeze AC instead. My order number is #28999.,Wrong Item,Low,PowerMax Battery,ordered powermax battery got ecobreeze ac instead order number,83
+313,Not able to install my product.,Installation Issue,Medium,UltraClean Vacuum,able install product,31
+314,Vision LED TV is error. It stopped working after just 5 days.,Unknown,High,Vision LED TV,vision led tv error stopped working day,61
+315,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in white?",General Inquiry,Medium,RoboChef Blender,tell robochef blender warranty also available white,89
+316,Can't log in to my account. Keeps showing error. Help!,Account Access,Medium,RoboChef Blender,cant log account keep showing error help,54
+317,Order #78448 placed on 05 April still not here.,Late Delivery,Medium,FitRun Treadmill,order placed april still,47
+318,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in blue?",General Inquiry,High,PowerMax Battery,tell powermax battery warranty also available blue,88
+319,"Payment issue for my SmartWatch V2. I was charged twice for order #25854. Also, I contacted support on 27 April but got no response.",Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v charged twice order also contacted support april got response,132
+320,,General Inquiry,Medium,SoundWave 300,,0
+321,Facing installation issue with SoundWave 300. Setup fails at step 3.,Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step,68
+322,Payment issue for my UltraClean Vacuum. I was charged twice for order #93599.,Billing Problem,Medium,UltraClean Vacuum,payment issue ultraclean vacuum charged twice order,77
+323,Payment issue fr mi PowerMax Battery. I was debited incorrectly fr order #39568.,Billing Problem,Medium,PowerMax Battery,payment issue fr mi powermax battery debited incorrectly fr order,80
+324,Payment issue for my PhotoSnap Cam. I was underbilled for order #45573.,Billing Problem,Low,PhotoSnap Cam,payment issue photosnap cam underbilled order,71
+325,FitRun Treadmill is missing. It stopped working after just 5 days.,Product Defect,High,FitRun Treadmill,fitrun treadmill missing stopped working day,66
+326, is damaged. It stopped working after just 2 days.,Product Defect,Medium,SoundWave 300,damaged stopped working day,50
+327,Facing installation issue with ProTab X1. Setup fails at step 4.,Installation Issue,Low,ProTab X1,facing installation issue protab x setup fails step,64
+328,Payment issue for my ProTab X1. I was charged twice for order #10170.,Billing Problem,High,ProTab X1,payment issue protab x charged twice order,69
+329, is error. It stopped working after just 10 days. Delivery expected by 14 April.,Product Defect,Low,PowerMax Battery,error stopped working day delivery expected april,80
+330, is late. It stopped working after just 9 days.,Product Defect,Low,PhotoSnap Cam,late stopped working day,47
+331,Order #60087 for PowerMax Battery is 16 days late. Ordered on 14 March.,Unknown,Low,PowerMax Battery,order powermax battery day late ordered march,71
+332,Payment issue for my UltraClean Vacuum. I was charged twice for order #23052.,Billing Problem,Unknown,UltraClean Vacuum,payment issue ultraclean vacuum charged twice order,77
+333,Can't log in to my account. Keeps showing blocked. Help!,Account Access,High,EcoBreeze AC,cant log account keep showing blocked help,56
+334,Can't log in to my account. Keeps showing error. Help! Delivery expected by 18 April.,Account Access,Low,FitRun Treadmill,cant log account keep showing error help delivery expected april,85
+335,"Can you tell me more about the Vision LED TV warranty? Also, is it available in black? Also, I contacted support on 11 May but got no response.",General Inquiry,Medium,Vision LED TV,tell vision led tv warranty also available black also contacted support may got response,143
+336,Order #27254 for PowerMax Battery is 1 days late. Ordered on 10 April.,Unknown,Low,PowerMax Battery,order powermax battery day late ordered april,70
+337,Payment problem for order #98036. Need urgent help.,Billing Problem,Low,RoboChef Blender,payment problem order need urgent help,51
+338,Can't log in to mi account. Keeps showing reset required. Help!,Account Access,Medium,PowerMax Battery,cant log mi account keep showing reset required help,63
+339,"Order #86000 for  is 5 days late. Ordered on 08 March. Also, I contacted support on 08 March but got no response.",Late Delivery,Medium,RoboChef Blender,order day late ordered march also contacted support march got response,113
+340,I ordered PowerMax Battery but got RoboChef Blender instead. My order number is #40494.,Wrong Item,Medium,PowerMax Battery,ordered powermax battery got robochef blender instead order number,87
+341,Want to know more about warranty.,General Inquiry,Unknown,SmartWatch V2,want know warranty,33
+342,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in black?",General Inquiry,High,EcoBreeze AC,tell ecobreeze ac warranty also available black,85
+343,FitRun Treadmill is defective. It stopped working after just 4 days.,Product Defect,Medium,FitRun Treadmill,fitrun treadmill defective stopped working day,68
+344,Payment issue for my Vision LED TV. I was underbilled for order #81504.,Billing Problem,Low,Vision LED TV,payment issue vision led tv underbilled order,71
+345,"Facing installation issue with PowerMax Battery. Setup fails at step 1. Also, I contacted support on 28 April but got no response.",Unknown,Unknown,PowerMax Battery,facing installation issue powermax battery setup fails step also contacted support april got response,130
+346,I ordered SoundWave 300 but got PhotoSnap Cam instead. My order number is #40050.,Wrong Item,Low,SoundWave 300,ordered soundwave got photosnap cam instead order number,81
+347,"Facing installation issue with SoundWave 300. Setup fails at step 1. Also, I contacted support on 17 March but got no response.",Installation Issue,Unknown,SoundWave 300,facing installation issue soundwave setup fails step also contacted support march got response,127
+348,"Payment issue for my SmartWatch V2. I was charged twice for order #79609. Also, I contacted support on 30 April but got no response.",Billing Problem,High,SmartWatch V2,payment issue smartwatch v charged twice order also contacted support april got response,132
+349,"Can you tell me more about the Vision LED TV warranty? Also, is it available in blue?",General Inquiry,High,Vision LED TV,tell vision led tv warranty also available blue,85
+350,Facing installation issue with . Setup fails at step 5.,Installation Issue,High,SmartWatch V2,facing installation issue setup fails step,55
+351,"Order #13937 for SmartWatch V2 is 2 days late. Ordered on 07 March. Also, I contacted support on 07 March but got no response.",Late Delivery,High,SmartWatch V2,order smartwatch v day late ordered march also contacted support march got response,126
+352,"Can you tell me more about the  warranty? Also, is it available in black? Also, I contacted support on 22 April but got no response.",General Inquiry,High,SoundWave 300,tell warranty also available black also contacted support april got response,132
+353,,Wrong Item,High,PowerMax Battery,,0
+354,"Can't access my account. Also, I contacted support on 07 March but got no response.",Account Access,Low,PowerMax Battery,cant access account also contacted support march got response,83
+355,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in black?",General Inquiry,Medium,SmartWatch V2,tell smartwatch v warranty also available black,86
+356,,Product Defect,Low,SoundWave 300,,0
+357," is no response. It stopped working after just 6 days. Also, I contacted support on 22 March but got no response.",Product Defect,High,SmartWatch V2,response stopped working day also contacted support march got response,113
+358,Order #97716 fr RoboChef Blender is 4 days late. Ordered on 05 May.,Late Delivery,High,RoboChef Blender,order fr robochef blender day late ordered may,67
+359,Payment issue for my PhotoSnap Cam. I was underbilled for order #49697.,Billing Problem,High,PhotoSnap Cam,payment issue photosnap cam underbilled order,71
+360,Payment issue for my EcoBreeze AC. I was underbilled for order #20548.,Billing Problem,High,EcoBreeze AC,payment issue ecobreeze ac underbilled order,70
+361,"Order #40777 placed on 08 April still not here. Also, I contacted support on 08 April but got no response.",Late Delivery,Low,RoboChef Blender,order placed april still also contacted support april got response,106
+362,Facing installation issue with FitRun Treadmill. Setup fails at step 2.,Installation Issue,Unknown,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+363,Facing installation issue with SoundWave 300. Setup fails at step 6.,Installation Issue,Low,SoundWave 300,facing installation issue soundwave setup fails step,68
+364,Payment issue for my . I was not refunded for order #83474. Delivery expected by 14 March.,Billing Problem,High,PowerMax Battery,payment issue refunded order delivery expected march,90
+365,Can't log in to mi account. Keeps showing blocked. Help!,Account Access,Low,SmartWatch V2,cant log mi account keep showing blocked help,56
+366,Order #91046 for Vision LED TV is 7 days late. Ordered on 19 April.,Late Delivery,Low,Vision LED TV,order vision led tv day late ordered april,67
+367,Facing installation issue with . Setup fails at step 6.,Installation Issue,High,UltraClean Vacuum,facing installation issue setup fails step,55
+368,"Order #86799 for  is 3 days late. Ordered on 03 May. Also, I contacted support on 03 May but got no response.",Late Delivery,Medium,EcoBreeze AC,order day late ordered may also contacted support may got response,109
+369,Facing installation issue with EcoBreeze AC. Setup fails at step 3.,Installation Issue,Medium,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+370,Facing installation issue with UltraClean Vacuum. Setup fails at step 4.,Installation Issue,High,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+371,,Account Access,Medium,SoundWave 300,,0
+372,Payment issue for my . I was not refunded for order #88583.,Billing Problem,High,ProTab X1,payment issue refunded order,59
+373,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in red?",General Inquiry,High,UltraClean Vacuum,tell ultraclean vacuum warranty also available red,88
+374,PowerMax Battery is broken. It stopped working after just 7 days.,Product Defect,Low,PowerMax Battery,powermax battery broken stopped working day,65
+375,Order #33197 for PhotoSnap Cam is 15 days late. Ordered on 28 March. Delivery expected by 28 March.,Late Delivery,Low,PhotoSnap Cam,order photosnap cam day late ordered march delivery expected march,99
+376,Facing installation issue with . Setup fails at step 1.,Installation Issue,Low,ProTab X1,facing installation issue setup fails step,55
+377,Order #15130 for FitRun Treadmill is 13 days late. Ordered on 22 March.,Late Delivery,High,FitRun Treadmill,order fitrun treadmill day late ordered march,71
+378,,Billing Problem,Low,FitRun Treadmill,,0
+379,Payment problem for order #84187. Need urgent help. Delivery expected by 03 May.,Billing Problem,Medium,Vision LED TV,payment problem order need urgent help delivery expected may,80
+380,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in white?",General Inquiry,Low,FitRun Treadmill,tell fitrun treadmill warranty also available white,89
+381,"Order #99634 for EcoBreeze AC is 15 days late. Ordered on 16 May. Also, I contacted support on 16 May but got no response. Delivery expected by 16 May.",Unknown,High,EcoBreeze AC,order ecobreeze ac day late ordered may also contacted support may got response delivery expected may,151
+382,Payment issue for my . I was underbilled for order #84239.,Billing Problem,Low,Vision LED TV,payment issue underbilled order,58
+383,"Payment issue for my UltraClean Vacuum. I was charged twice for order #53615. Also, I contacted support on 12 March but got no response. Delivery expected by 12 March.",Billing Problem,Medium,UltraClean Vacuum,payment issue ultraclean vacuum charged twice order also contacted support march got response delivery expected march,167
+384,RoboChef Blender is stuck. It stopped working after just 6 days.,Product Defect,Low,RoboChef Blender,robochef blender stuck stopped working day,64
+385,"Can't log in to my account. Keeps showing unknown issue. Help! Also, I contacted support on 30 March but got no response.",Account Access,Medium,RoboChef Blender,cant log account keep showing unknown issue help also contacted support march got response,121
+386,Order #75955 for SmartWatch V2 is 5 days late. Ordered on 10 May.,Late Delivery,Medium,SmartWatch V2,order smartwatch v day late ordered may,65
+387,Facing installation issue with PhotoSnap Cam. Setup fails at step 2.,Installation Issue,Medium,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+388,Order #61188 for  is 17 days late. Ordered on 05 March.,Late Delivery,Medium,UltraClean Vacuum,order day late ordered march,55
+389,RoboChef Blender is error. It stopped working after just 5 days.,Unknown,High,RoboChef Blender,robochef blender error stopped working day,64
+390,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in blue? Also, I contacted support on 02 April but got no response.",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available blue also contacted support april got response,147
+391,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in white?",General Inquiry,Low,SmartWatch V2,tell smartwatch v warranty also available white,86
+392,"Received wrong product, order mixed up.",Wrong Item,Medium,FitRun Treadmill,received wrong product order mixed,39
+393,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in white? Delivery expected by 19 May.",General Inquiry,High,RoboChef Blender,tell robochef blender warranty also available white delivery expected may,118
+394,Facing installation issue with UltraClean Vacuum. Setup fails at step 2.,Installation Issue,High,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+395,"Facing installation issue with Vision LED TV. Setup fails at step 6. Also, I contacted support on 31 March but got no response.",Installation Issue,Medium,Vision LED TV,facing installation issue vision led tv setup fails step also contacted support march got response,127
+396,Payment issue for my . I was charged twice for order #66880.,Billing Problem,High,SoundWave 300,payment issue charged twice order,60
+397, is lost. It stopped working after just 3 days.,Product Defect,Medium,PhotoSnap Cam,lost stopped working day,47
+398,RoboChef Blender is wrong item. It stopped working after just 1 days.,Product Defect,High,RoboChef Blender,robochef blender wrong item stopped working day,69
+399,Order #28904 placed on 03 May still not here.,Late Delivery,Medium,SmartWatch V2,order placed may still,45
+400,Facing installation issue with SoundWave 300. Setup fails at step 6.,Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step,68
+401,Vision LED TV is cracked. It stopped working after just 1 days.,Product Defect,Unknown,Vision LED TV,vision led tv cracked stopped working day,63
+402,Payment issue for my SoundWave 300. I was overbilled for order #25839. Delivery expected by 07 April.,Billing Problem,Low,SoundWave 300,payment issue soundwave overbilled order delivery expected april,101
+403,"Received wrong product, order mixed up.",Wrong Item,Low,ProTab X1,received wrong product order mixed,39
+404,Order #17946 fr PhotoSnap Cam is 16 days late. Ordered on 14 April.,Late Delivery,High,PhotoSnap Cam,order fr photosnap cam day late ordered april,67
+405,Payment issue for my EcoBreeze AC. I was debited incorrectly for order #86372.,Billing Problem,High,EcoBreeze AC,payment issue ecobreeze ac debited incorrectly order,78
+406,"Can you tell me more about the  warranty? Also, is it available in black?",General Inquiry,Low,PowerMax Battery,tell warranty also available black,73
+407,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in white?",General Inquiry,Low,FitRun Treadmill,tell fitrun treadmill warranty also available white,89
+408,I ordered  but got SmartWatch V2 instead. My order number is #31482.,Wrong Item,Low,SmartWatch V2,ordered got smartwatch v instead order number,68
+409,,Billing Problem,Medium,EcoBreeze AC,,0
+410,"Can you tell me more about teh FitRun Treadmill warranty? Also, is it available in white? Also, I contacted support on 01 May but got no response.",General Inquiry,High,FitRun Treadmill,tell teh fitrun treadmill warranty also available white also contacted support may got response,146
+411,Can't log in to my account. Keeps showing error. Help! Delivery expected by 30 March.,Account Access,Medium,SoundWave 300,cant log account keep showing error help delivery expected march,85
+412,I ordered  but got FitRun Treadmill instead. My order number is #58478.,Wrong Item,Low,PowerMax Battery,ordered got fitrun treadmill instead order number,71
+413,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,PowerMax Battery,cant log account keep showing unknown issue help,62
+414,Payment issue for my FitRun Treadmill. I was debited incorrectly for order #47086.,Billing Problem,Unknown,FitRun Treadmill,payment issue fitrun treadmill debited incorrectly order,82
+415,Facing installation issue with Vision LED TV. Setup fails at step 1.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+416,"Facing installation issue with PhotoSnap Cam. Setup fails at step 3. Also, I contacted support on 31 March but got no response.",Installation Issue,Low,PhotoSnap Cam,facing installation issue photosnap cam setup fails step also contacted support march got response,127
+417,Facing installation issue with Vision LED TV. Setup fails at step 4.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+418,Order #69448 for  is 2 days late. Ordered on 17 April.,Late Delivery,High,SoundWave 300,order day late ordered april,54
+419,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,FitRun Treadmill,cant log account keep showing captcha failed help,63
+420,I ordered  but got ProTab X1 instead. My order number is #74984. Delivery expected by 11 March.,Wrong Item,Medium,PhotoSnap Cam,ordered got protab x instead order number delivery expected march,95
+421,Payment issue for my ProTab X1. I was overbilled for order #70251.,Billing Problem,Medium,ProTab X1,payment issue protab x overbilled order,66
+422,"Is this item in stock? Also, I contacted support on 25 March but got no response.",General Inquiry,High,Vision LED TV,item stock also contacted support march got response,81
+423,,Unknown,High,EcoBreeze AC,,0
+424,Payment issue for my ProTab X1. I was underbilled for order #63800.,Billing Problem,High,ProTab X1,payment issue protab x underbilled order,67
+425,"Payment issue for my Vision LED TV. I was underbilled for order #65500. Also, I contacted support on 09 April but got no response.",Billing Problem,High,Vision LED TV,payment issue vision led tv underbilled order also contacted support april got response,130
+426,Both my  and PhotoSnap Cam are stuck. Both giving issues. Delivery expected by 04 April.,Product Defect,High,EcoBreeze AC,photosnap cam stuck giving issue delivery expected april,88
+427,Facing installation issue with SmartWatch V2. Setup fails at step 1.,Installation Issue,Low,SmartWatch V2,facing installation issue smartwatch v setup fails step,68
+428,Payment issue for my UltraClean Vacuum. I was debited incorrectly for order #15205.,Billing Problem,Medium,UltraClean Vacuum,payment issue ultraclean vacuum debited incorrectly order,83
+429,"I ordered  but got Vision LED TV instead. My order number is #94780. Also, I contacted support on 03 May but got no response.",Unknown,High,RoboChef Blender,ordered got vision led tv instead order number also contacted support may got response,125
+430,"Can you tell me more about teh SmartWatch V2 warranty? Also, is it available in black?",General Inquiry,Medium,SmartWatch V2,tell teh smartwatch v warranty also available black,86
+431,Facing installation issue with PowerMax Battery. Setup fails at step 2.,Installation Issue,Unknown,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+432,Can't log in to my account. Keeps showing error. Help! Delivery expected by 22 March.,Account Access,Low,SoundWave 300,cant log account keep showing error help delivery expected march,85
+433,I ordered FitRun Treadmill but got ProTab X1 instead. My order number is #82022.,Wrong Item,High,FitRun Treadmill,ordered fitrun treadmill got protab x instead order number,80
+434,RoboChef Blender is stuck. It stopped working after just 8 days.,Product Defect,Medium,RoboChef Blender,robochef blender stuck stopped working day,64
+435,Account problem. Assistance needed.,Account Access,High,RoboChef Blender,account problem assistance needed,35
+436,I ordered PhotoSnap Cam but got RoboChef Blender instead. My order number is #60642.,Wrong Item,High,PhotoSnap Cam,ordered photosnap cam got robochef blender instead order number,84
+437,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,UltraClean Vacuum,cant log account keep showing reset required help,63
+438,Order #17325 for  is 4 days late. Ordered on 29 April.,Late Delivery,Medium,SmartWatch V2,order day late ordered april,54
+439,"Payment issue fr mi Vision LED TV. I was charged twice fr order #72740. Also, I contacted support on 29 March but got no response.",Billing Problem,Low,Vision LED TV,payment issue fr mi vision led tv charged twice fr order also contacted support march got response,130
+440,"I ordered PowerMax Battery but got PhotoSnap Cam instead. My order number is #86223. Also, I contacted support on 04 March but got no response.",Unknown,High,PowerMax Battery,ordered powermax battery got photosnap cam instead order number also contacted support march got response,143
+441,Order #81531 for RoboChef Blender is 3 days late. Ordered on 10 May.,Late Delivery,Medium,RoboChef Blender,order robochef blender day late ordered may,68
+442,"I ordered Vision LED TV but got ProTab X1 instead. My order number is #74519. Also, I contacted support on 28 March but got no response.",Wrong Item,Low,Vision LED TV,ordered vision led tv got protab x instead order number also contacted support march got response,136
+443,"Can you tell me more about teh  warranty? Also, is it available in red?",General Inquiry,Low,PowerMax Battery,tell teh warranty also available red,71
+444,I ordered  but got FitRun Treadmill instead. My order number is #78628.,Wrong Item,Medium,Vision LED TV,ordered got fitrun treadmill instead order number,71
+445,I ordered PowerMax Battery but got Vision LED TV instead. My order number is #26037.,Wrong Item,Medium,PowerMax Battery,ordered powermax battery got vision led tv instead order number,84
+446,Facing installation issue with PowerMax Battery. Setup fails at step 4.,Installation Issue,Medium,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+447,I ordered UltraClean Vacuum but got FitRun Treadmill instead. My order number is #10191. Delivery expected by 07 May.,Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got fitrun treadmill instead order number delivery expected may,117
+448,Facing installation issue with . Setup fails at step 4.,Installation Issue,Low,PowerMax Battery,facing installation issue setup fails step,55
+449,Can't log in to my account. Keeps showing error. Help!,Unknown,High,PowerMax Battery,cant log account keep showing error help,54
+450,Order #90934 placed on 29 April still not here.,Late Delivery,Medium,RoboChef Blender,order placed april still,47
+451,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in white?",General Inquiry,Unknown,SmartWatch V2,tell smartwatch v warranty also available white,86
+452,Facing installation issue with Vision LED TV. Setup fails at step 6.,Installation Issue,Medium,Vision LED TV,facing installation issue vision led tv setup fails step,68
+453,,Installation Issue,Unknown,SmartWatch V2,,0
+454,Vision LED TV is missing. It stopped working after just 6 days.,Product Defect,Medium,Vision LED TV,vision led tv missing stopped working day,63
+455,SmartWatch V2 is not received. It stopped working after just 12 days.,Product Defect,Low,SmartWatch V2,smartwatch v received stopped working day,69
+456,Facing installation issue with PowerMax Battery. Setup fails at step 4.,Installation Issue,Medium,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+457,,General Inquiry,Low,UltraClean Vacuum,,0
+458,Can't log in to my account. Keeps showing blocked. Help! Delivery expected by 08 March.,Account Access,Medium,UltraClean Vacuum,cant log account keep showing blocked help delivery expected march,87
+459,,Late Delivery,Low,PhotoSnap Cam,,0
+460,Facing installation issue with PhotoSnap Cam. Setup fails at step 2.,Installation Issue,High,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+461,PhotoSnap Cam is not working. It stopped working after just 11 days.,Product Defect,Medium,PhotoSnap Cam,photosnap cam working stopped working day,68
+462,Product info needed.,General Inquiry,Low,UltraClean Vacuum,product info needed,20
+463,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in white? Also, I contacted support on 18 May but got no response.",General Inquiry,Medium,EcoBreeze AC,tell ecobreeze ac warranty also available white also contacted support may got response,142
+464,Can't log in to mi account. Keeps showing captcha failed. Help!,Account Access,Low,SoundWave 300,cant log mi account keep showing captcha failed help,63
+465,"SoundWave 300 is broken. It stopped working after just 5 days. Also, I contacted support on 18 April but got no response.",Product Defect,High,SoundWave 300,soundwave broken stopped working day also contacted support april got response,121
+466,Product info needed. Delivery expected by 23 April.,General Inquiry,High,FitRun Treadmill,product info needed delivery expected april,51
+467,Order #43089 for Vision LED TV is 17 days late. Ordered on 16 May.,Unknown,Medium,Vision LED TV,order vision led tv day late ordered may,66
+468,Order #29186 fr PowerMax Battery is 4 days late. Ordered on 23 April.,Late Delivery,Medium,PowerMax Battery,order fr powermax battery day late ordered april,69
+469,"ProTab X1 is not received. It stopped working after just 6 days. Also, I contacted support on 23 March but got no response.",Product Defect,Low,ProTab X1,protab x received stopped working day also contacted support march got response,123
+470,"Payment issue for my UltraClean Vacuum. I was overbilled for order #88996. Also, I contacted support on 15 May but got no response.",Billing Problem,Unknown,UltraClean Vacuum,payment issue ultraclean vacuum overbilled order also contacted support may got response,131
+471,Want to know more about warranty.,General Inquiry,Low,UltraClean Vacuum,want know warranty,33
+472,Facing installation issue with RoboChef Blender. Setup fails at step 1.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+473,ProTab X1 is glitchy. It stopped working after just 4 days.,Product Defect,Low,ProTab X1,protab x glitchy stopped working day,59
+474,"Can you tell me more about the  warranty? Also, is it available in red? Also, I contacted support on 29 March but got no response. Delivery expected by 29 March.",General Inquiry,High,PowerMax Battery,tell warranty also available red also contacted support march got response delivery expected march,161
+475,"Payment issue for my . I was underbilled for order #99130. Also, I contacted support on 20 April but got no response.",Billing Problem,High,EcoBreeze AC,payment issue underbilled order also contacted support april got response,117
+476,Order #49096 for SmartWatch V2 is 1 days late. Ordered on 12 May.,Late Delivery,High,SmartWatch V2,order smartwatch v day late ordered may,65
+477,Order #38602 for SoundWave 300 is 16 days late. Ordered on 09 March.,Late Delivery,Medium,SoundWave 300,order soundwave day late ordered march,68
+478,Payment issue for my . I was overbilled for order #32281.,Billing Problem,Low,UltraClean Vacuum,payment issue overbilled order,57
+479,Can't log in to mi account. Keeps showing error. Help!,Unknown,Medium,PowerMax Battery,cant log mi account keep showing error help,54
+480,Facing installation issue with PowerMax Battery. Setup fails at step 3.,Installation Issue,Unknown,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+481,Facing installation issue with Vision LED TV. Setup fails at step 1.,Installation Issue,High,Vision LED TV,facing installation issue vision led tv setup fails step,68
+482,"Both my  and SoundWave 300 are lost. Both giving issues. Also, I contacted support on 11 May but got no response.",Product Defect,Low,SoundWave 300,soundwave lost giving issue also contacted support may got response,113
+483,"Facing installation issue with ProTab X1. Setup fails at step 5. Also, I contacted support on 28 March but got no response.",Installation Issue,High,ProTab X1,facing installation issue protab x setup fails step also contacted support march got response,123
+484,Can't log in to my account. Keeps showing error. Help!,Account Access,Medium,PowerMax Battery,cant log account keep showing error help,54
+485,,Billing Problem,Low,UltraClean Vacuum,,0
+486,Facing installation issue with RoboChef Blender. Setup fails at step 1.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+487,"Payment issue for my ProTab X1. I was overbilled for order #61880. Also, I contacted support on 11 April but got no response.",Billing Problem,Medium,ProTab X1,payment issue protab x overbilled order also contacted support april got response,125
+488,,Installation Issue,High,RoboChef Blender,,0
+489,Both my SmartWatch V2 and ProTab X1 are not received. Both giving issues.,Product Defect,High,SmartWatch V2,smartwatch v protab x received giving issue,73
+490,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,High,ProTab X1,cant log account keep showing captcha failed help,63
+491, is not received. It stopped working after just 12 days.,Product Defect,High,UltraClean Vacuum,received stopped working day,56
+492,Login not working.,Unknown,Medium,RoboChef Blender,login working,18
+493,Product info needed.,General Inquiry,Low,SoundWave 300,product info needed,20
+494,Vision LED TV is no response. It stopped working after just 8 days.,Product Defect,High,Vision LED TV,vision led tv response stopped working day,67
+495,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in black? Also, I contacted support on 19 March but got no response.",General Inquiry,High,UltraClean Vacuum,tell ultraclean vacuum warranty also available black also contacted support march got response,149
+496,Payment issue for my SoundWave 300. I was not refunded for order #49262.,Billing Problem,Unknown,SoundWave 300,payment issue soundwave refunded order,72
+497,Order #47713 for UltraClean Vacuum is 6 days late. Ordered on 27 April.,Late Delivery,High,UltraClean Vacuum,order ultraclean vacuum day late ordered april,71
+498,Can't log in to my account. Keeps showing blocked. Help! Delivery expected by 16 May.,Account Access,Medium,ProTab X1,cant log account keep showing blocked help delivery expected may,85
+499,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Medium,UltraClean Vacuum,cant log account keep showing unknown issue help,62
+500,I ordered  but got FitRun Treadmill instead. My order number is #34023.,Wrong Item,Medium,Vision LED TV,ordered got fitrun treadmill instead order number,71
+501,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,ProTab X1,cant log account keep showing unknown issue help,62
+502,Can't access mi account.,Account Access,Low,PhotoSnap Cam,cant access mi account,24
+503,"Can you tell me more about the  warranty? Also, is it available in black?",General Inquiry,High,PhotoSnap Cam,tell warranty also available black,73
+504,"Received wrong product, order mixed up.",Wrong Item,Medium,SmartWatch V2,received wrong product order mixed,39
+505,Order #93543 placed on 16 March still not here.,Late Delivery,High,FitRun Treadmill,order placed march still,47
+506,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,High,PowerMax Battery,cant log account keep showing captcha failed help,63
+507,Facing installation issue with ProTab X1. Setup fails at step 5.,Installation Issue,High,ProTab X1,facing installation issue protab x setup fails step,64
+508,Product info needed.,General Inquiry,High,PowerMax Battery,product info needed,20
+509,Facing installation issue wit UltraClean Vacuum. Setup fails at step 2.,Installation Issue,High,UltraClean Vacuum,facing installation issue wit ultraclean vacuum setup fails step,71
+510,Payment issue fr mi . I was charged twice fr order #35452.,Billing Problem,Low,Vision LED TV,payment issue fr mi charged twice fr order,58
+511,,Wrong Item,High,SoundWave 300,,0
+512,I ordered SoundWave 300 but got RoboChef Blender instead. My order number is #98840.,Wrong Item,Medium,SoundWave 300,ordered soundwave got robochef blender instead order number,84
+513,Both my ProTab X1 and PowerMax Battery are lost. Both giving issues.,Product Defect,High,ProTab X1,protab x powermax battery lost giving issue,68
+514,I ordered ProTab X1 but got PhotoSnap Cam instead. My order number is #85967.,Wrong Item,Low,ProTab X1,ordered protab x got photosnap cam instead order number,77
+515,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Low,FitRun Treadmill,cant log account keep showing unknown issue help,62
+516,"Payment issue for my SoundWave 300. I was charged twice for order #52260. Also, I contacted support on 09 May but got no response.",Billing Problem,Low,SoundWave 300,payment issue soundwave charged twice order also contacted support may got response,130
+517,FitRun Treadmill is not working. It stopped working after just 6 days.,Product Defect,Low,FitRun Treadmill,fitrun treadmill working stopped working day,70
+518,Order #52552 placed on 14 March still not here. Delivery expected by 14 March.,Late Delivery,Medium,PhotoSnap Cam,order placed march still delivery expected march,78
+519,"Can you tell me more about the  warranty? Also, is it available in red?",Unknown,Medium,UltraClean Vacuum,tell warranty also available red,71
+520,I ordered FitRun Treadmill but got PhotoSnap Cam instead. My order number is #67065. Delivery expected by 20 April.,Wrong Item,High,FitRun Treadmill,ordered fitrun treadmill got photosnap cam instead order number delivery expected april,115
+521,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in black?",General Inquiry,Medium,SmartWatch V2,tell smartwatch v warranty also available black,86
+522,Can't log in to my account. Keeps showing error. Help!,Account Access,Low,SoundWave 300,cant log account keep showing error help,54
+523,FitRun Treadmill is stuck. It stopped working after just 10 days.,Product Defect,High,FitRun Treadmill,fitrun treadmill stuck stopped working day,65
+524,,General Inquiry,Medium,PowerMax Battery,,0
+525,"I ordered UltraClean Vacuum but got PowerMax Battery instead. My order number is #31724. Also, I contacted support on 15 May but got no response. Delivery expected by 15 May.",Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got powermax battery instead order number also contacted support may got response delivery expected may,174
+526,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red?",General Inquiry,High,PhotoSnap Cam,tell photosnap cam warranty also available red,84
+527, is stuck. It stopped working after just 6 days.,Product Defect,Medium,PhotoSnap Cam,stuck stopped working day,48
+528,Payment issue for my ProTab X1. I was charged twice for order #79550.,Billing Problem,Low,ProTab X1,payment issue protab x charged twice order,69
+529,ProTab X1 is missing. It stopped working after just 2 days.,Product Defect,High,ProTab X1,protab x missing stopped working day,59
+530,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Unknown,FitRun Treadmill,cant log account keep showing captcha failed help,63
+531,Not able to install my product.,Installation Issue,Medium,EcoBreeze AC,able install product,31
+532,Facing installation issue wit . Setup fails at step 6.,Installation Issue,High,Vision LED TV,facing installation issue wit setup fails step,54
+533,Payment issue for my FitRun Treadmill. I was not refunded for order #87628.,Billing Problem,High,FitRun Treadmill,payment issue fitrun treadmill refunded order,75
+534,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in red?",General Inquiry,High,SmartWatch V2,tell smartwatch v warranty also available red,84
+535,Facing installation issue with EcoBreeze AC. Setup fails at step 6. Delivery expected by 05 March.,Installation Issue,Low,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step delivery expected march,98
+536,RoboChef Blender is not received. It stopped working after just 8 days.,Product Defect,Low,RoboChef Blender,robochef blender received stopped working day,71
+537,"Can you tell me more about the  warranty? Also, is it available in red?",Unknown,Medium,Vision LED TV,tell warranty also available red,71
+538,Payment issue for my PhotoSnap Cam. I was charged twice for order #81690.,Billing Problem,Medium,PhotoSnap Cam,payment issue photosnap cam charged twice order,73
+539,I ordered RoboChef Blender but got PhotoSnap Cam instead. My order number is #39514.,Wrong Item,Low,RoboChef Blender,ordered robochef blender got photosnap cam instead order number,84
+540,"SoundWave 300 is stuck. It stopped working after just 4 days. Also, I contacted support on 01 April but got no response. Delivery expected by 01 April.",Product Defect,High,SoundWave 300,soundwave stuck stopped working day also contacted support april got response delivery expected april,151
+541,Order #18704 for  is 5 days late. Ordered on 02 May.,Late Delivery,High,PhotoSnap Cam,order day late ordered may,52
+542,Both mi SoundWave 300 and RoboChef Blender are broken. Both giving issues.,Product Defect,High,SoundWave 300,mi soundwave robochef blender broken giving issue,74
+543,Facing installation issue with ProTab X1. Setup fails at step 3.,Installation Issue,High,ProTab X1,facing installation issue protab x setup fails step,64
+544,Order #75682 for FitRun Treadmill is 14 days late. Ordered on 06 March.,Late Delivery,Medium,FitRun Treadmill,order fitrun treadmill day late ordered march,71
+545,"Can't log in to mi account. Keeps showing blocked. Help! Also, I contacted support on 12 April but got no response.",Account Access,Low,Vision LED TV,cant log mi account keep showing blocked help also contacted support april got response,115
+546,"Login not working. Also, I contacted support on 23 April but got no response.",Account Access,Medium,PhotoSnap Cam,login working also contacted support april got response,77
+547,Login not working.,Unknown,High,FitRun Treadmill,login working,18
+548,I ordered SoundWave 300 but got FitRun Treadmill instead. My order number is #64523.,Wrong Item,Unknown,SoundWave 300,ordered soundwave got fitrun treadmill instead order number,84
+549,"Both my FitRun Treadmill and RoboChef Blender are lost. Both giving issues. Also, I contacted support on 21 March but got no response.",Product Defect,Medium,FitRun Treadmill,fitrun treadmill robochef blender lost giving issue also contacted support march got response,134
+550,"Both my PhotoSnap Cam and SoundWave 300 are late. Both giving issues. Also, I contacted support on 19 April but got no response.",Unknown,High,PhotoSnap Cam,photosnap cam soundwave late giving issue also contacted support april got response,128
+551,Facing installation issue wit . Setup fails at step 1.,Installation Issue,High,ProTab X1,facing installation issue wit setup fails step,54
+552,Product info needed.,General Inquiry,High,Vision LED TV,product info needed,20
+553,"Can you tell me more about the  warranty? Also, is it available in blue?",General Inquiry,Low,RoboChef Blender,tell warranty also available blue,72
+554,"Can't log in to my account. Keeps showing captcha failed. Help! Also, I contacted support on 14 March but got no response.",Account Access,Low,ProTab X1,cant log account keep showing captcha failed help also contacted support march got response,122
+555,I ordered  but got Vision LED TV instead. My order number is #53713.,Wrong Item,Low,SoundWave 300,ordered got vision led tv instead order number,68
+556,Facing installation issue with . Setup fails at step 5.,Installation Issue,Medium,EcoBreeze AC,facing installation issue setup fails step,55
+557,Want to know more about warranty.,General Inquiry,High,RoboChef Blender,want know warranty,33
+558,,Billing Problem,Low,ProTab X1,,0
+559,I ordered  but got PowerMax Battery instead. My order number is #79728.,Wrong Item,High,RoboChef Blender,ordered got powermax battery instead order number,71
+560,"Received wrong product, order mixed up.",Wrong Item,High,ProTab X1,received wrong product order mixed,39
+561,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in black?",General Inquiry,High,EcoBreeze AC,tell ecobreeze ac warranty also available black,85
+562,Order #69180 placed on 30 April still not here.,Late Delivery,High,EcoBreeze AC,order placed april still,47
+563,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Medium,EcoBreeze AC,cant log account keep showing blocked help,56
+564,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,FitRun Treadmill,cant log account keep showing captcha failed help,63
+565,Payment issue for my . I was charged twice for order #65495.,Billing Problem,Medium,RoboChef Blender,payment issue charged twice order,60
+566,Order #13273 fr SmartWatch V2 is 5 days late. Ordered on 09 April.,Late Delivery,Medium,SmartWatch V2,order fr smartwatch v day late ordered april,66
+567,"Login not working. Also, I contacted support on 02 May but got no response.",Account Access,Low,SoundWave 300,login working also contacted support may got response,75
+568, is missing. It stopped working after just 11 days.,Unknown,Medium,Vision LED TV,missing stopped working day,51
+569, is wrong item. It stopped working after just 4 days.,Product Defect,Medium,Vision LED TV,wrong item stopped working day,53
+570,I ordered ProTab X1 but got ProTab X1 instead. My order number is #50088.,Wrong Item,Low,ProTab X1,ordered protab x got protab x instead order number,73
+571,Facing installation issue with SmartWatch V2. Setup fails at step 1.,Installation Issue,High,SmartWatch V2,facing installation issue smartwatch v setup fails step,68
+572,"I ordered ProTab X1 but got SmartWatch V2 instead. My order number is #44044. Also, I contacted support on 15 April but got no response.",Wrong Item,High,ProTab X1,ordered protab x got smartwatch v instead order number also contacted support april got response,136
+573,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in blue?",General Inquiry,Medium,RoboChef Blender,tell robochef blender warranty also available blue,88
+574,"Facing installation issue with SoundWave 300. Setup fails at step 3. Also, I contacted support on 02 March but got no response.",Installation Issue,High,SoundWave 300,facing installation issue soundwave setup fails step also contacted support march got response,127
+575,I ordered  but got UltraClean Vacuum instead. My order number is #51296.,Wrong Item,High,FitRun Treadmill,ordered got ultraclean vacuum instead order number,72
+576,Order #51854 fr RoboChef Blender is 8 days late. Ordered on 10 March.,Late Delivery,Low,RoboChef Blender,order fr robochef blender day late ordered march,69
+577,,Wrong Item,Medium,RoboChef Blender,,0
+578,"Can you tell me more about teh  warranty? Also, is it available in white? Also, I contacted support on 14 April but got no response.",General Inquiry,Medium,SmartWatch V2,tell teh warranty also available white also contacted support april got response,132
+579,"Payment issue for my . I was overbilled for order #26196. Also, I contacted support on 02 May but got no response.",Billing Problem,High,UltraClean Vacuum,payment issue overbilled order also contacted support may got response,114
+580,Facing installation issue with RoboChef Blender. Setup fails at step 3.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+581, is error. It stopped working after just 4 days.,Product Defect,Low,PhotoSnap Cam,error stopped working day,48
+582,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,Low,EcoBreeze AC,tell warranty also available red,71
+583,"Payment issue for my . I was not refunded for order #18300. Also, I contacted support on 09 April but got no response.",Billing Problem,High,SmartWatch V2,payment issue refunded order also contacted support april got response,118
+584,I ordered ProTab X1 but got FitRun Treadmill instead. My order number is #60022.,Wrong Item,Unknown,ProTab X1,ordered protab x got fitrun treadmill instead order number,80
+585,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,UltraClean Vacuum,cant log account keep showing reset required help,63
+586,"Facing installation issue with PhotoSnap Cam. Setup fails at step 4. Also, I contacted support on 24 April but got no response.",Installation Issue,Medium,PhotoSnap Cam,facing installation issue photosnap cam setup fails step also contacted support april got response,127
+587,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,UltraClean Vacuum,cant log account keep showing captcha failed help,63
+588,Payment issue for my ProTab X1. I was charged twice for order #14766.,Billing Problem,Medium,ProTab X1,payment issue protab x charged twice order,69
+589,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red? Delivery expected by 02 May.",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available red delivery expected may,113
+590,Account problem. Assistance needed.,Account Access,High,PowerMax Battery,account problem assistance needed,35
+591,Payment issue fr mi SoundWave 300. I was charged twice fr order #95164.,Billing Problem,Low,SoundWave 300,payment issue fr mi soundwave charged twice fr order,71
+592,Order #42651 for PowerMax Battery is 10 days late. Ordered on 30 March.,Late Delivery,High,PowerMax Battery,order powermax battery day late ordered march,71
+593,Facing installation issue with UltraClean Vacuum. Setup fails at step 1.,Installation Issue,Medium,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+594,Can't log in to mi account. Keeps showing unknown issue. Help!,Account Access,Low,PhotoSnap Cam,cant log mi account keep showing unknown issue help,62
+595,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in black?",General Inquiry,Low,FitRun Treadmill,tell fitrun treadmill warranty also available black,89
+596,Payment issue for my Vision LED TV. I was not refunded for order #14501.,Billing Problem,Low,Vision LED TV,payment issue vision led tv refunded order,72
+597,Order #31539 for EcoBreeze AC is 14 days late. Ordered on 08 May.,Late Delivery,High,EcoBreeze AC,order ecobreeze ac day late ordered may,65
+598,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,RoboChef Blender,cant log account keep showing reset required help,63
+599,Facing installation issue with PhotoSnap Cam. Setup fails at step 5.,Installation Issue,Medium,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+600,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in red?",General Inquiry,Low,FitRun Treadmill,tell fitrun treadmill warranty also available red,87
+601,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Medium,SoundWave 300,cant log account keep showing blocked help,56
+602,Order #48317 for PhotoSnap Cam is 12 days late. Ordered on 03 May.,Late Delivery,High,PhotoSnap Cam,order photosnap cam day late ordered may,66
+603,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,FitRun Treadmill,cant log account keep showing unknown issue help,62
+604,EcoBreeze AC is lost. It stopped working after just 9 days. Delivery expected by 20 March.,Product Defect,Medium,EcoBreeze AC,ecobreeze ac lost stopped working day delivery expected march,90
+605,Facing installation issue with Vision LED TV. Setup fails at step 5.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+606,Payment issue for my . I was not refunded for order #55840.,Billing Problem,Medium,PhotoSnap Cam,payment issue refunded order,59
+607,Facing installation issue with PowerMax Battery. Setup fails at step 3.,Installation Issue,Low,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+608,Not able to install my product.,Installation Issue,Medium,Vision LED TV,able install product,31
+609,Facing installation issue with . Setup fails at step 4.,Installation Issue,Medium,SoundWave 300,facing installation issue setup fails step,55
+610,Can't log in to my account. Keeps showing error. Help!,Account Access,Medium,FitRun Treadmill,cant log account keep showing error help,54
+611,Is this item in stock?,General Inquiry,Unknown,PhotoSnap Cam,item stock,22
+612,Vision LED TV is defective. It stopped working after just 10 days.,Product Defect,Unknown,Vision LED TV,vision led tv defective stopped working day,66
+613,I ordered ProTab X1 but got RoboChef Blender instead. My order number is #56484.,Wrong Item,Medium,ProTab X1,ordered protab x got robochef blender instead order number,80
+614,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in white?",General Inquiry,Medium,UltraClean Vacuum,tell ultraclean vacuum warranty also available white,90
+615,RoboChef Blender is faulty. It stopped working after just 10 days.,Product Defect,High,RoboChef Blender,robochef blender faulty stopped working day,66
+616,Payment issue for my SoundWave 300. I was underbilled for order #34614.,Billing Problem,High,SoundWave 300,payment issue soundwave underbilled order,71
+617,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in blue?",General Inquiry,Low,RoboChef Blender,tell robochef blender warranty also available blue,88
+618,"Order #38284 for RoboChef Blender is 7 days late. Ordered on 24 March. Also, I contacted support on 24 March but got no response.",Unknown,Low,RoboChef Blender,order robochef blender day late ordered march also contacted support march got response,129
+619,Order #17506 for EcoBreeze AC is 8 days late. Ordered on 16 April.,Late Delivery,High,EcoBreeze AC,order ecobreeze ac day late ordered april,66
+620,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,EcoBreeze AC,cant log account keep showing unknown issue help,62
+621,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in blue?",General Inquiry,High,FitRun Treadmill,tell fitrun treadmill warranty also available blue,88
+622,Can't log in to my account. Keeps showing reset required. Help!,Unknown,Medium,RoboChef Blender,cant log account keep showing reset required help,63
+623,Login not working.,Account Access,Medium,RoboChef Blender,login working,18
+624,Payment issue for my SmartWatch V2. I was charged twice for order #15770.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v charged twice order,73
+625,"Can you tell me more about teh  warranty? Also, is it available in white?",General Inquiry,High,EcoBreeze AC,tell teh warranty also available white,73
+626,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Low,SmartWatch V2,cant log account keep showing reset required help,63
+627,Order #11910 for RoboChef Blender is 6 days late. Ordered on 21 April.,Late Delivery,Medium,RoboChef Blender,order robochef blender day late ordered april,70
+628,I ordered EcoBreeze AC but got Vision LED TV instead. My order number is #56460.,Wrong Item,Unknown,EcoBreeze AC,ordered ecobreeze ac got vision led tv instead order number,80
+629,,Wrong Item,Unknown,SmartWatch V2,,0
+630,Order #10394 for  is 3 days late. Ordered on 05 March.,Unknown,Low,RoboChef Blender,order day late ordered march,54
+631,Order #27626 fr RoboChef Blender is 7 days late. Ordered on 29 April.,Late Delivery,Low,RoboChef Blender,order fr robochef blender day late ordered april,69
+632,Facing installation issue with . Setup fails at step 2.,Installation Issue,High,PowerMax Battery,facing installation issue setup fails step,55
+633,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Unknown,SmartWatch V2,cant log account keep showing captcha failed help,63
+634,Payment issue for my PhotoSnap Cam. I was debited incorrectly for order #43008.,Billing Problem,Medium,PhotoSnap Cam,payment issue photosnap cam debited incorrectly order,79
+635,Facing installation issue with UltraClean Vacuum. Setup fails at step 1.,Installation Issue,Low,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+636,"Can you tell me more about the  warranty? Also, is it available in black?",Unknown,High,PhotoSnap Cam,tell warranty also available black,73
+637,Order #82251 for  is 7 days late. Ordered on 29 March.,Late Delivery,Medium,SmartWatch V2,order day late ordered march,54
+638,RoboChef Blender is damaged. It stopped working after just 10 days.,Product Defect,Low,RoboChef Blender,robochef blender damaged stopped working day,67
+639,Is this item in stock?,General Inquiry,Low,PowerMax Battery,item stock,22
+640,Facing installation issue with EcoBreeze AC. Setup fails at step 6.,Installation Issue,Medium,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+641,Can't log in to my account. Keeps showing error. Help! Delivery expected by 15 March.,Account Access,Low,EcoBreeze AC,cant log account keep showing error help delivery expected march,85
+642,FitRun Treadmill is error. It stopped working after just 4 days.,Product Defect,Medium,FitRun Treadmill,fitrun treadmill error stopped working day,64
+643,"Can you tell me more about the  warranty? Also, is it available in black?",General Inquiry,Low,RoboChef Blender,tell warranty also available black,73
+644,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Low,RoboChef Blender,cant log account keep showing blocked help,56
+645,Payment problem for order #61582. Need urgent help.,Billing Problem,Low,SmartWatch V2,payment problem order need urgent help,51
+646,Payment issue for my UltraClean Vacuum. I was not refunded for order #20155.,Billing Problem,High,UltraClean Vacuum,payment issue ultraclean vacuum refunded order,76
+647,Facing installation issue with ProTab X1. Setup fails at step 6.,Installation Issue,Medium,ProTab X1,facing installation issue protab x setup fails step,64
+648,I ordered UltraClean Vacuum but got SmartWatch V2 instead. My order number is #69961.,Wrong Item,Medium,UltraClean Vacuum,ordered ultraclean vacuum got smartwatch v instead order number,85
+649,,General Inquiry,Medium,FitRun Treadmill,,0
+650,SoundWave 300 is not received. It stopped working after just 12 days.,Product Defect,High,SoundWave 300,soundwave received stopped working day,69
+651,"Facing installation issue with PowerMax Battery. Setup fails at step 5. Also, I contacted support on 20 April but got no response.",Installation Issue,High,PowerMax Battery,facing installation issue powermax battery setup fails step also contacted support april got response,130
+652,"Can you tell me more about the  warranty? Also, is it available in white?",General Inquiry,Low,PowerMax Battery,tell warranty also available white,73
+653,ProTab X1 is defective. It stopped working after just 9 days.,Product Defect,Low,ProTab X1,protab x defective stopped working day,61
+654,,Late Delivery,Low,Vision LED TV,,0
+655,I ordered  but got UltraClean Vacuum instead. My order number is #36490.,Wrong Item,Medium,PowerMax Battery,ordered got ultraclean vacuum instead order number,72
+656,EcoBreeze AC is stuck. It stopped working after just 7 days.,Product Defect,Medium,EcoBreeze AC,ecobreeze ac stuck stopped working day,60
+657,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Low,SoundWave 300,cant log account keep showing reset required help,63
+658,Payment issue fr mi SmartWatch V2. I was underbilled fr order #14552.,Billing Problem,Medium,SmartWatch V2,payment issue fr mi smartwatch v underbilled fr order,69
+659,I ordered PowerMax Battery but got FitRun Treadmill instead. My order number is #62040.,Wrong Item,High,PowerMax Battery,ordered powermax battery got fitrun treadmill instead order number,87
+660,Facing installation issue wit RoboChef Blender. Setup fails at step 3.,Installation Issue,High,RoboChef Blender,facing installation issue wit robochef blender setup fails step,70
+661,"Can you tell me more about the Vision LED TV warranty? Also, is it available in white?",General Inquiry,High,Vision LED TV,tell vision led tv warranty also available white,86
+662,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,SoundWave 300,cant log account keep showing reset required help,63
+663,Order #20912 for UltraClean Vacuum is 10 days late. Ordered on 11 March.,Late Delivery,Low,UltraClean Vacuum,order ultraclean vacuum day late ordered march,72
+664,,Late Delivery,Medium,PowerMax Battery,,0
+665,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,SmartWatch V2,cant log account keep showing captcha failed help,63
+666,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Medium,FitRun Treadmill,cant log account keep showing unknown issue help,62
+667,"Order #91902 for EcoBreeze AC is 4 days late. Ordered on 25 April. Also, I contacted support on 25 April but got no response.",Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered april also contacted support april got response,125
+668,I ordered  but got EcoBreeze AC instead. My order number is #46778.,Wrong Item,Medium,SoundWave 300,ordered got ecobreeze ac instead order number,67
+669,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Low,ProTab X1,cant log account keep showing blocked help,56
+670,PhotoSnap Cam is late. It stopped working after just 5 days.,Product Defect,High,PhotoSnap Cam,photosnap cam late stopped working day,60
+671,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in black?",General Inquiry,High,FitRun Treadmill,tell fitrun treadmill warranty also available black,89
+672,Both my SoundWave 300 and Vision LED TV are glitchy. Both giving issues.,Product Defect,Low,SoundWave 300,soundwave vision led tv glitchy giving issue,72
+673,Facing installation issue with . Setup fails at step 4.,Unknown,High,UltraClean Vacuum,facing installation issue setup fails step,55
+674,Payment problem for order #33229. Need urgent help.,Billing Problem,High,EcoBreeze AC,payment problem order need urgent help,51
+675,,Billing Problem,Medium,RoboChef Blender,,0
+676,Facing installation issue with RoboChef Blender. Setup fails at step 4.,Installation Issue,High,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+677,Facing installation issue with Vision LED TV. Setup fails at step 3.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+678,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,PowerMax Battery,cant log account keep showing reset required help,63
+679,Facing installation issue with ProTab X1. Setup fails at step 5.,Installation Issue,Low,ProTab X1,facing installation issue protab x setup fails step,64
+680,Payment issue for my . I was debited incorrectly for order #15563. Delivery expected by 30 March.,Unknown,Low,Vision LED TV,payment issue debited incorrectly order delivery expected march,97
+681,Payment issue for my ProTab X1. I was debited incorrectly for order #15474.,Billing Problem,Medium,ProTab X1,payment issue protab x debited incorrectly order,75
+682,Payment issue for my FitRun Treadmill. I was underbilled for order #83111.,Billing Problem,High,FitRun Treadmill,payment issue fitrun treadmill underbilled order,74
+683,,Billing Problem,High,EcoBreeze AC,,0
+684,I ordered Vision LED TV but got PhotoSnap Cam instead. My order number is #82389. Delivery expected by 13 April.,Wrong Item,Low,Vision LED TV,ordered vision led tv got photosnap cam instead order number delivery expected april,112
+685,I ordered RoboChef Blender but got EcoBreeze AC instead. My order number is #43384.,Wrong Item,Low,RoboChef Blender,ordered robochef blender got ecobreeze ac instead order number,83
+686,I ordered  but got PhotoSnap Cam instead. My order number is #57437.,Wrong Item,Low,FitRun Treadmill,ordered got photosnap cam instead order number,68
+687,Facing installation issue wit . Setup fails at step 3.,Installation Issue,Low,PowerMax Battery,facing installation issue wit setup fails step,54
+688,Payment issue for my RoboChef Blender. I was underbilled for order #87420.,Billing Problem,High,RoboChef Blender,payment issue robochef blender underbilled order,74
+689,"Order #78255 for PhotoSnap Cam is 8 days late. Ordered on 16 April. Also, I contacted support on 16 April but got no response.",Late Delivery,High,PhotoSnap Cam,order photosnap cam day late ordered april also contacted support april got response,126
+690,,Late Delivery,Medium,SmartWatch V2,,0
+691,I ordered RoboChef Blender but got FitRun Treadmill instead. My order number is #18640. Delivery expected by 27 April.,Wrong Item,Low,RoboChef Blender,ordered robochef blender got fitrun treadmill instead order number delivery expected april,118
+692,Can't log in to my account. Keeps showing error. Help!,Account Access,Low,ProTab X1,cant log account keep showing error help,54
+693,Payment problem for order #79572. Need urgent help.,Billing Problem,Medium,UltraClean Vacuum,payment problem order need urgent help,51
+694,,General Inquiry,Medium,PowerMax Battery,,0
+695,"RoboChef Blender is cracked. It stopped working after just 7 days. Also, I contacted support on 24 March but got no response.",Product Defect,High,RoboChef Blender,robochef blender cracked stopped working day also contacted support march got response,125
+696,FitRun Treadmill is broken. It stopped working after just 10 days.,Product Defect,Medium,FitRun Treadmill,fitrun treadmill broken stopped working day,66
+697,Payment issue fr mi EcoBreeze AC. I was charged twice fr order #16054.,Billing Problem,High,EcoBreeze AC,payment issue fr mi ecobreeze ac charged twice fr order,70
+698,"Payment issue fr mi PowerMax Battery. I was overbilled fr order #13069. Also, I contacted support on 07 May but got no response.",Unknown,Medium,PowerMax Battery,payment issue fr mi powermax battery overbilled fr order also contacted support may got response,128
+699,Can't log in to mi account. Keeps showing unknown issue. Help!,Account Access,Low,Vision LED TV,cant log mi account keep showing unknown issue help,62
+700,Can't log in to mi account. Keeps showing blocked. Help! Delivery expected by 16 March.,Account Access,Low,UltraClean Vacuum,cant log mi account keep showing blocked help delivery expected march,87
+701,Payment issue for my EcoBreeze AC. I was not refunded for order #42496.,Unknown,Medium,EcoBreeze AC,payment issue ecobreeze ac refunded order,71
+702,"I ordered EcoBreeze AC but got RoboChef Blender instead. My order number is #99452. Also, I contacted support on 01 April but got no response.",Wrong Item,High,EcoBreeze AC,ordered ecobreeze ac got robochef blender instead order number also contacted support april got response,142
+703,Payment problem fr order #74061. Need urgent help.,Billing Problem,High,RoboChef Blender,payment problem fr order need urgent help,50
+704,Payment issue fr mi EcoBreeze AC. I was charged twice fr order #89561.,Billing Problem,Medium,EcoBreeze AC,payment issue fr mi ecobreeze ac charged twice fr order,70
+705,,Product Defect,High,SmartWatch V2,,0
+706,I ordered ProTab X1 but got FitRun Treadmill instead. My order number is #82036.,Wrong Item,Medium,ProTab X1,ordered protab x got fitrun treadmill instead order number,80
+707,,Late Delivery,High,RoboChef Blender,,0
+708," is damaged. It stopped working after just 3 days. Also, I contacted support on 22 March but got no response.",Unknown,Low,SoundWave 300,damaged stopped working day also contacted support march got response,109
+709,"Can you tell me more about teh SoundWave 300 warranty? Also, is it available in white?",General Inquiry,Medium,SoundWave 300,tell teh soundwave warranty also available white,86
+710,"Payment issue for my . I was not refunded for order #27748. Also, I contacted support on 29 March but got no response.",Billing Problem,Medium,ProTab X1,payment issue refunded order also contacted support march got response,118
+711,Order #59424 for FitRun Treadmill is 2 days late. Ordered on 07 March.,Late Delivery,Medium,FitRun Treadmill,order fitrun treadmill day late ordered march,70
+712,Order #47003 for SoundWave 300 is 17 days late. Ordered on 28 April.,Unknown,High,SoundWave 300,order soundwave day late ordered april,68
+713,"I ordered PowerMax Battery but got ProTab X1 instead. My order number is #76262. Also, I contacted support on 24 March but got no response. Delivery expected by 24 March.",Wrong Item,High,PowerMax Battery,ordered powermax battery got protab x instead order number also contacted support march got response delivery expected march,170
+714,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in red?",General Inquiry,Low,EcoBreeze AC,tell ecobreeze ac warranty also available red,83
+715,FitRun Treadmill is not received. It stopped working after just 1 days.,Product Defect,High,FitRun Treadmill,fitrun treadmill received stopped working day,71
+716,"Can you tell me more about the Vision LED TV warranty? Also, is it available in red? Also, I contacted support on 04 April but got no response. Delivery expected by 04 April.",Unknown,Low,Vision LED TV,tell vision led tv warranty also available red also contacted support april got response delivery expected april,174
+717,Facing installation issue with UltraClean Vacuum. Setup fails at step 6.,Installation Issue,Medium,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+718,Not able to install my product.,Installation Issue,Medium,SmartWatch V2,able install product,31
+719,"Payment problem for order #50747. Need urgent help. Also, I contacted support on 29 March but got no response.",Billing Problem,High,UltraClean Vacuum,payment problem order need urgent help also contacted support march got response,110
+720,I ordered PowerMax Battery but got ProTab X1 instead. My order number is #54668.,Wrong Item,High,PowerMax Battery,ordered powermax battery got protab x instead order number,80
+721,Order #82260 for  is 18 days late. Ordered on 29 April.,Late Delivery,Medium,PhotoSnap Cam,order day late ordered april,55
+722,Payment issue for my FitRun Treadmill. I was underbilled for order #65952.,Billing Problem,Low,FitRun Treadmill,payment issue fitrun treadmill underbilled order,74
+723,I ordered Vision LED TV but got UltraClean Vacuum instead. My order number is #80743.,Unknown,High,Vision LED TV,ordered vision led tv got ultraclean vacuum instead order number,85
+724,"Facing installation issue with . Setup fails at step 1. Also, I contacted support on 28 March but got no response.",Installation Issue,High,PowerMax Battery,facing installation issue setup fails step also contacted support march got response,114
+725,Order #15998 for  is 1 days late. Ordered on 15 April.,Late Delivery,Low,RoboChef Blender,order day late ordered april,54
+726,PowerMax Battery is lost. It stopped working after just 8 days.,Product Defect,Medium,PowerMax Battery,powermax battery lost stopped working day,63
+727,Order #12312 placed on 31 March still not here.,Late Delivery,Unknown,EcoBreeze AC,order placed march still,47
+728,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,High,PhotoSnap Cam,cant log account keep showing captcha failed help,63
+729,SoundWave 300 is broken. It stopped working after just 1 days.,Product Defect,Unknown,SoundWave 300,soundwave broken stopped working day,62
+730,Order #86215 fr  is 16 days late. Ordered on 21 April.,Late Delivery,Unknown,FitRun Treadmill,order fr day late ordered april,54
+731,SoundWave 300 is wrong item. It stopped working after just 6 days.,Product Defect,Medium,SoundWave 300,soundwave wrong item stopped working day,66
+732,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in black?",General Inquiry,High,PhotoSnap Cam,tell photosnap cam warranty also available black,86
+733,"Can't log in to my account. Keeps showing reset required. Help! Also, I contacted support on 12 May but got no response.",Unknown,Medium,FitRun Treadmill,cant log account keep showing reset required help also contacted support may got response,120
+734,"Payment issue for my ProTab X1. I was charged twice for order #86412. Also, I contacted support on 17 March but got no response.",Billing Problem,High,ProTab X1,payment issue protab x charged twice order also contacted support march got response,128
+735,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in black? Delivery expected by 17 March.",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available black delivery expected march,120
+736,Login not working.,Account Access,Medium,RoboChef Blender,login working,18
+737,Account problem. Assistance needed.,Account Access,Medium,SoundWave 300,account problem assistance needed,35
+738,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in black?",General Inquiry,High,RoboChef Blender,tell robochef blender warranty also available black,89
+739,"Payment problem for order #95121. Need urgent help. Also, I contacted support on 24 March but got no response.",Unknown,High,PhotoSnap Cam,payment problem order need urgent help also contacted support march got response,110
+740,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in blue? Also, I contacted support on 09 March but got no response.",General Inquiry,High,PowerMax Battery,tell powermax battery warranty also available blue also contacted support march got response,147
+741,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in white?",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available white,86
+742,I ordered UltraClean Vacuum but got UltraClean Vacuum instead. My order number is #57817.,Wrong Item,Low,UltraClean Vacuum,ordered ultraclean vacuum got ultraclean vacuum instead order number,89
+743,Facing installation issue with UltraClean Vacuum. Setup fails at step 4.,Unknown,High,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step,72
+744,"Received wrong product, order mixed up.",Wrong Item,Medium,ProTab X1,received wrong product order mixed,39
+745,"I ordered PhotoSnap Cam but got PhotoSnap Cam instead. My order number is #37817. Also, I contacted support on 25 April but got no response.",Wrong Item,Low,PhotoSnap Cam,ordered photosnap cam got photosnap cam instead order number also contacted support april got response,140
+746,Can't log in to my account. Keeps showing error. Help!,Account Access,Low,PhotoSnap Cam,cant log account keep showing error help,54
+747,"Can't access my account. Also, I contacted support on 19 March but got no response.",Account Access,High,ProTab X1,cant access account also contacted support march got response,83
+748,Can't log in to my account. Keeps showing reset required. Help! Delivery expected by 18 April.,Account Access,Low,SmartWatch V2,cant log account keep showing reset required help delivery expected april,94
+749,Order #98425 for  is 2 days late. Ordered on 22 March.,Late Delivery,High,PhotoSnap Cam,order day late ordered march,54
+750,Both my SmartWatch V2 and PowerMax Battery are broken. Both giving issues. Delivery expected by 04 April.,Unknown,High,SmartWatch V2,smartwatch v powermax battery broken giving issue delivery expected april,105
+751,Product info needed.,General Inquiry,High,SoundWave 300,product info needed,20
+752,Can't log in to my account. Keeps showing blocked. Help!,Account Access,High,RoboChef Blender,cant log account keep showing blocked help,56
+753,,Late Delivery,High,PhotoSnap Cam,,0
+754, is late. It stopped working after just 8 days.,Product Defect,Low,Vision LED TV,late stopped working day,47
+755,I ordered PhotoSnap Cam but got SoundWave 300 instead. My order number is #68656.,Wrong Item,Low,PhotoSnap Cam,ordered photosnap cam got soundwave instead order number,81
+756,"Received wrong product, order mixed up. Also, I contacted support on 03 May but got no response.",Wrong Item,Medium,UltraClean Vacuum,received wrong product order mixed also contacted support may got response,96
+757,I ordered SoundWave 300 but got ProTab X1 instead. My order number is #55952.,Unknown,High,SoundWave 300,ordered soundwave got protab x instead order number,77
+758,Facing installation issue with . Setup fails at step 2.,Installation Issue,High,EcoBreeze AC,facing installation issue setup fails step,55
+759,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Medium,PhotoSnap Cam,cant log account keep showing blocked help,56
+760,I ordered RoboChef Blender but got EcoBreeze AC instead. My order number is #12554.,Wrong Item,High,RoboChef Blender,ordered robochef blender got ecobreeze ac instead order number,83
+761,Facing installation issue with . Setup fails at step 4.,Installation Issue,Low,ProTab X1,facing installation issue setup fails step,55
+762,Payment issue for my PhotoSnap Cam. I was underbilled for order #53013.,Billing Problem,Medium,PhotoSnap Cam,payment issue photosnap cam underbilled order,71
+763,Payment issue for my . I was underbilled for order #20888.,Billing Problem,High,PhotoSnap Cam,payment issue underbilled order,58
+764,Facing installation issue with PowerMax Battery. Setup fails at step 5.,Installation Issue,Low,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+765,Account problem. Assistance needed.,Account Access,High,SmartWatch V2,account problem assistance needed,35
+766,I ordered ProTab X1 but got UltraClean Vacuum instead. My order number is #53505.,Wrong Item,High,ProTab X1,ordered protab x got ultraclean vacuum instead order number,81
+767,I ordered Vision LED TV but got SoundWave 300 instead. My order number is #38888.,Wrong Item,Medium,Vision LED TV,ordered vision led tv got soundwave instead order number,81
+768,"SmartWatch V2 is missing. It stopped working after just 3 days. Also, I contacted support on 27 April but got no response.",Product Defect,High,SmartWatch V2,smartwatch v missing stopped working day also contacted support april got response,122
+769,RoboChef Blender is damaged. It stopped working after just 3 days.,Product Defect,High,RoboChef Blender,robochef blender damaged stopped working day,66
+770,Payment issue fr mi ProTab X1. I was overbilled fr order #41189. Delivery expected by 19 May.,Billing Problem,Medium,ProTab X1,payment issue fr mi protab x overbilled fr order delivery expected may,93
+771,,Account Access,Medium,PhotoSnap Cam,,0
+772,Vision LED TV is missing. It stopped working after just 3 days.,Product Defect,High,Vision LED TV,vision led tv missing stopped working day,63
+773,Can't log in to my account. Keeps showing error. Help! Delivery expected by 03 March.,Account Access,Low,EcoBreeze AC,cant log account keep showing error help delivery expected march,85
+774,Payment issue for my EcoBreeze AC. I was debited incorrectly for order #93842.,Unknown,High,EcoBreeze AC,payment issue ecobreeze ac debited incorrectly order,78
+775,Order #91530 fr  is 15 days late. Ordered on 29 April.,Late Delivery,High,SoundWave 300,order fr day late ordered april,54
+776,UltraClean Vacuum is charged. It stopped working after just 12 days.,Product Defect,Medium,UltraClean Vacuum,ultraclean vacuum charged stopped working day,68
+777,"Can you tell me more about the EcoBreeze AC warranty? Also, is it available in black?",General Inquiry,High,EcoBreeze AC,tell ecobreeze ac warranty also available black,85
+778,"Order #21829 for Vision LED TV is 10 days late. Ordered on 08 March. Also, I contacted support on 08 March but got no response.",Unknown,Low,Vision LED TV,order vision led tv day late ordered march also contacted support march got response,127
+779,PowerMax Battery is error. It stopped working after just 10 days.,Product Defect,Medium,PowerMax Battery,powermax battery error stopped working day,65
+780,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,High,Vision LED TV,tell warranty also available red,71
+781,Facing installation issue with PowerMax Battery. Setup fails at step 6.,Installation Issue,High,PowerMax Battery,facing installation issue powermax battery setup fails step,71
+782,Facing installation issue with EcoBreeze AC. Setup fails at step 3.,Unknown,Medium,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+783,I ordered SoundWave 300 but got ProTab X1 instead. My order number is #24110.,Wrong Item,High,SoundWave 300,ordered soundwave got protab x instead order number,77
+784,"Received wrong product, order mixed up. Also, I contacted support on 04 March but got no response.",Wrong Item,Low,SoundWave 300,received wrong product order mixed also contacted support march got response,98
+785,Both my Vision LED TV and PowerMax Battery are error. Both giving issues.,Product Defect,Medium,Vision LED TV,vision led tv powermax battery error giving issue,73
+786,"Payment issue for my RoboChef Blender. I was charged twice for order #81485. Also, I contacted support on 03 March but got no response.",Billing Problem,Low,RoboChef Blender,payment issue robochef blender charged twice order also contacted support march got response,135
+787,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in blue?",General Inquiry,Low,PowerMax Battery,tell powermax battery warranty also available blue,88
+788,"Received wrong product, order mixed up.",Wrong Item,Medium,PhotoSnap Cam,received wrong product order mixed,39
+789,I ordered  but got PowerMax Battery instead. My order number is #29985. Delivery expected by 22 April.,Wrong Item,Medium,ProTab X1,ordered got powermax battery instead order number delivery expected april,102
+790,I ordered UltraClean Vacuum but got Vision LED TV instead. My order number is #74948.,Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got vision led tv instead order number,85
+791,Facing installation issue with . Setup fails at step 2.,Installation Issue,Medium,EcoBreeze AC,facing installation issue setup fails step,55
+792,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in red?",Unknown,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available red,87
+793,Facing installation issue with EcoBreeze AC. Setup fails at step 5.,Installation Issue,Medium,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+794,"Account problem. Assistance needed. Also, I contacted support on 22 March but got no response.",Account Access,Low,FitRun Treadmill,account problem assistance needed also contacted support march got response,94
+795,Payment issue fr mi SoundWave 300. I was not refunded fr order #10237.,Billing Problem,High,SoundWave 300,payment issue fr mi soundwave refunded fr order,70
+796,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Unknown,FitRun Treadmill,cant log account keep showing captcha failed help,63
+797,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in red?",General Inquiry,High,RoboChef Blender,tell robochef blender warranty also available red,87
+798,"UltraClean Vacuum is error. It stopped working after just 6 days. Also, I contacted support on 05 April but got no response.",Product Defect,Medium,UltraClean Vacuum,ultraclean vacuum error stopped working day also contacted support april got response,124
+799,Can't access my account.,Account Access,Unknown,UltraClean Vacuum,cant access account,24
+800,Facing installation issue with Vision LED TV. Setup fails at step 2.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+801,Facing installation issue with PhotoSnap Cam. Setup fails at step 1. Delivery expected by 15 April.,Installation Issue,Medium,PhotoSnap Cam,facing installation issue photosnap cam setup fails step delivery expected april,99
+802,Facing installation issue with Vision LED TV. Setup fails at step 5.,Installation Issue,Low,Vision LED TV,facing installation issue vision led tv setup fails step,68
+803,Vision LED TV is charged. It stopped working after just 3 days. Delivery expected by 14 May.,Product Defect,Low,Vision LED TV,vision led tv charged stopped working day delivery expected may,92
+804,"I ordered  but got SoundWave 300 instead. My order number is #72697. Also, I contacted support on 08 March but got no response.",Wrong Item,Medium,FitRun Treadmill,ordered got soundwave instead order number also contacted support march got response,127
+805,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,Low,Vision LED TV,tell warranty also available red,71
+806,Order #98108 for  is 2 days late. Ordered on 02 March.,Late Delivery,Medium,EcoBreeze AC,order day late ordered march,54
+807,Facing installation issue with RoboChef Blender. Setup fails at step 2.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+808,Payment issue for my Vision LED TV. I was charged twice for order #31561.,Billing Problem,High,Vision LED TV,payment issue vision led tv charged twice order,73
+809,I ordered UltraClean Vacuum but got ProTab X1 instead. My order number is #43806.,Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got protab x instead order number,81
+810,Facing installation issue with ProTab X1. Setup fails at step 4.,Installation Issue,High,ProTab X1,facing installation issue protab x setup fails step,64
+811,"Can't log in to my account. Keeps showing captcha failed. Help! Also, I contacted support on 30 March but got no response.",Account Access,Medium,RoboChef Blender,cant log account keep showing captcha failed help also contacted support march got response,122
+812,I ordered ProTab X1 but got UltraClean Vacuum instead. My order number is #10769.,Unknown,High,ProTab X1,ordered protab x got ultraclean vacuum instead order number,81
+813,"Can't log in to my account. Keeps showing blocked. Help! Also, I contacted support on 29 March but got no response.",Account Access,High,ProTab X1,cant log account keep showing blocked help also contacted support march got response,115
+814,I ordered PowerMax Battery but got Vision LED TV instead. My order number is #93575.,Wrong Item,Medium,PowerMax Battery,ordered powermax battery got vision led tv instead order number,84
+815,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in blue?",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available blue,88
+816,"Facing installation issue with UltraClean Vacuum. Setup fails at step 5. Also, I contacted support on 09 March but got no response.",Installation Issue,Unknown,UltraClean Vacuum,facing installation issue ultraclean vacuum setup fails step also contacted support march got response,131
+817,SoundWave 300 is late. It stopped working after just 1 days.,Product Defect,Low,SoundWave 300,soundwave late stopped working day,60
+818,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,EcoBreeze AC,cant log account keep showing reset required help,63
+819,"Can you tell me more about the Vision LED TV warranty? Also, is it available in white?",General Inquiry,High,Vision LED TV,tell vision led tv warranty also available white,86
+820,"I ordered  but got FitRun Treadmill instead. My order number is #30866. Also, I contacted support on 20 April but got no response.",Unknown,Medium,PowerMax Battery,ordered got fitrun treadmill instead order number also contacted support april got response,130
+821,"Can you tell me more about the SoundWave 300 warranty? Also, is it available in black?",General Inquiry,Medium,SoundWave 300,tell soundwave warranty also available black,86
+822,SmartWatch V2 is missing. It stopped working after just 2 days.,Unknown,Low,SmartWatch V2,smartwatch v missing stopped working day,63
+823,I ordered UltraClean Vacuum but got ProTab X1 instead. My order number is #47597.,Wrong Item,Medium,UltraClean Vacuum,ordered ultraclean vacuum got protab x instead order number,81
+824,Facing installation issue with PhotoSnap Cam. Setup fails at step 2.,Installation Issue,High,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+825,,Account Access,Low,RoboChef Blender,,0
+826,"Not able to install my product. Also, I contacted support on 04 March but got no response.",Installation Issue,Low,RoboChef Blender,able install product also contacted support march got response,90
+827,"Can't log in to my account. Keeps showing error. Help! Also, I contacted support on 16 March but got no response.",Account Access,High,PhotoSnap Cam,cant log account keep showing error help also contacted support march got response,113
+828,Order #38583 for  is 2 days late. Ordered on 06 April.,Late Delivery,Medium,SmartWatch V2,order day late ordered april,54
+829,Payment issue for my UltraClean Vacuum. I was overbilled for order #94247.,Billing Problem,Low,UltraClean Vacuum,payment issue ultraclean vacuum overbilled order,74
+830,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in white?",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available white,86
+831,SmartWatch V2 is missing. It stopped working after just 7 days.,Product Defect,Low,SmartWatch V2,smartwatch v missing stopped working day,63
+832,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,Medium,EcoBreeze AC,tell warranty also available red,71
+833,Product info needed. Delivery expected by 27 March.,Unknown,Low,PowerMax Battery,product info needed delivery expected march,51
+834,,Billing Problem,Low,PowerMax Battery,,0
+835,FitRun Treadmill is malfunction. It stopped working after just 1 days.,Product Defect,Low,FitRun Treadmill,fitrun treadmill malfunction stopped working day,70
+836,"Facing installation issue with SoundWave 300. Setup fails at step 1. Also, I contacted support on 09 April but got no response.",Installation Issue,Medium,SoundWave 300,facing installation issue soundwave setup fails step also contacted support april got response,127
+837,Facing installation issue with RoboChef Blender. Setup fails at step 4.,Installation Issue,Low,RoboChef Blender,facing installation issue robochef blender setup fails step,71
+838,Both my ProTab X1 and PowerMax Battery are late. Both giving issues.,Product Defect,Low,ProTab X1,protab x powermax battery late giving issue,68
+839,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,ProTab X1,cant log account keep showing captcha failed help,63
+840,Both my RoboChef Blender and FitRun Treadmill are not working. Both giving issues.,Product Defect,Medium,RoboChef Blender,robochef blender fitrun treadmill working giving issue,82
+841,Payment issue for my PhotoSnap Cam. I was charged twice for order #75768.,Unknown,Low,PhotoSnap Cam,payment issue photosnap cam charged twice order,73
+842,"Can you tell me more about the UltraClean Vacuum warranty? Also, is it available in blue?",General Inquiry,Low,UltraClean Vacuum,tell ultraclean vacuum warranty also available blue,89
+843,Facing installation issue with PhotoSnap Cam. Setup fails at step 1.,Installation Issue,High,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+844,Order #15216 placed on 07 May still not here.,Late Delivery,Low,Vision LED TV,order placed may still,45
+845,,General Inquiry,Low,FitRun Treadmill,,0
+846,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,SmartWatch V2,cant log account keep showing captcha failed help,63
+847,"Can you tell me more about the  warranty? Also, is it available in red?",General Inquiry,High,SoundWave 300,tell warranty also available red,71
+848,Order #23419 for EcoBreeze AC is 5 days late. Ordered on 19 March.,Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered march,66
+849,Order #75921 for PowerMax Battery is 16 days late. Ordered on 23 March.,Late Delivery,Low,PowerMax Battery,order powermax battery day late ordered march,71
+850,,Installation Issue,Low,Vision LED TV,,0
+851,Order #81995 for  is 9 days late. Ordered on 05 March.,Late Delivery,High,EcoBreeze AC,order day late ordered march,54
+852,Order #92470 for EcoBreeze AC is 9 days late. Ordered on 17 May. Delivery expected by 17 May.,Late Delivery,Low,EcoBreeze AC,order ecobreeze ac day late ordered may delivery expected may,93
+853,I ordered FitRun Treadmill but got PhotoSnap Cam instead. My order number is #54167.,Wrong Item,Unknown,FitRun Treadmill,ordered fitrun treadmill got photosnap cam instead order number,84
+854,"I ordered SmartWatch V2 but got EcoBreeze AC instead. My order number is #20428. Also, I contacted support on 15 April but got no response.",Wrong Item,Low,SmartWatch V2,ordered smartwatch v got ecobreeze ac instead order number also contacted support april got response,139
+855,Facing installation issue with FitRun Treadmill. Setup fails at step 6.,Installation Issue,High,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+856,Order #81509 for Vision LED TV is 3 days late. Ordered on 10 April.,Late Delivery,Medium,Vision LED TV,order vision led tv day late ordered april,67
+857,Can't log in to my account. Keeps showing reset required. Help!,Account Access,High,FitRun Treadmill,cant log account keep showing reset required help,63
+858,Order #79357 for Vision LED TV is 10 days late. Ordered on 12 May. Delivery expected by 12 May.,Late Delivery,Medium,Vision LED TV,order vision led tv day late ordered may delivery expected may,95
+859,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in black?",General Inquiry,Medium,RoboChef Blender,tell robochef blender warranty also available black,89
+860,I ordered SmartWatch V2 but got Vision LED TV instead. My order number is #35751. Delivery expected by 07 May.,Wrong Item,Medium,SmartWatch V2,ordered smartwatch v got vision led tv instead order number delivery expected may,110
+861,I ordered PhotoSnap Cam but got EcoBreeze AC instead. My order number is #95981.,Wrong Item,Medium,PhotoSnap Cam,ordered photosnap cam got ecobreeze ac instead order number,80
+862,Order #46436 for SoundWave 300 is 3 days late. Ordered on 02 May.,Late Delivery,High,SoundWave 300,order soundwave day late ordered may,65
+863,Payment issue for my SoundWave 300. I was not refunded for order #57172.,Billing Problem,Unknown,SoundWave 300,payment issue soundwave refunded order,72
+864,,General Inquiry,Low,UltraClean Vacuum,,0
+865,Is this item in stock?,General Inquiry,Low,FitRun Treadmill,item stock,22
+866,Account problem. Assistance needed.,Account Access,High,EcoBreeze AC,account problem assistance needed,35
+867,Facing installation issue with . Setup fails at step 1.,Installation Issue,High,PhotoSnap Cam,facing installation issue setup fails step,55
+868,Can't log in to my account. Keeps showing error. Help!,Account Access,High,SoundWave 300,cant log account keep showing error help,54
+869,"Can you tell me more about teh SmartWatch V2 warranty? Also, is it available in white? Delivery expected by 08 April.",General Inquiry,Low,SmartWatch V2,tell teh smartwatch v warranty also available white delivery expected april,117
+870,I ordered  but got UltraClean Vacuum instead. My order number is #87705.,Wrong Item,Low,UltraClean Vacuum,ordered got ultraclean vacuum instead order number,72
+871,"Order #92113 for SmartWatch V2 is 7 days late. Ordered on 11 March. Also, I contacted support on 11 March but got no response.",Late Delivery,High,SmartWatch V2,order smartwatch v day late ordered march also contacted support march got response,126
+872,Both my Vision LED TV and RoboChef Blender are defective. Both giving issues.,Product Defect,Low,Vision LED TV,vision led tv robochef blender defective giving issue,77
+873,Payment issue for my . I was charged twice for order #32134. Delivery expected by 05 May.,Billing Problem,Low,EcoBreeze AC,payment issue charged twice order delivery expected may,89
+874,"Can you tell me more about teh SmartWatch V2 warranty? Also, is it available in red? Also, I contacted support on 19 April but got no response.",General Inquiry,Low,SmartWatch V2,tell teh smartwatch v warranty also available red also contacted support april got response,143
+875,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Low,RoboChef Blender,cant log account keep showing blocked help,56
+876,Payment issue fr mi PowerMax Battery. I was underbilled fr order #33239.,Billing Problem,Medium,PowerMax Battery,payment issue fr mi powermax battery underbilled fr order,72
+877,"Facing installation issue with SoundWave 300. Setup fails at step 1. Also, I contacted support on 12 April but got no response.",Installation Issue,High,SoundWave 300,facing installation issue soundwave setup fails step also contacted support april got response,127
+878,Can't log in to my account. Keeps showing reset required. Help! Delivery expected by 06 April.,Account Access,High,ProTab X1,cant log account keep showing reset required help delivery expected april,94
+879,Order #20416 for  is 1 days late. Ordered on 06 May.,Late Delivery,Medium,SoundWave 300,order day late ordered may,52
+880,I ordered  but got EcoBreeze AC instead. My order number is #70159.,Wrong Item,High,PhotoSnap Cam,ordered got ecobreeze ac instead order number,67
+881,Payment issue for my Vision LED TV. I was overbilled for order #26865.,Billing Problem,Low,Vision LED TV,payment issue vision led tv overbilled order,70
+882,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Medium,PowerMax Battery,cant log account keep showing unknown issue help,62
+883,Facing installation issue with Vision LED TV. Setup fails at step 2.,Installation Issue,Medium,Vision LED TV,facing installation issue vision led tv setup fails step,68
+884,Order #28878 for SoundWave 300 is 18 days late. Ordered on 18 May. Delivery expected by 18 May.,Unknown,Unknown,SoundWave 300,order soundwave day late ordered may delivery expected may,95
+885,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Low,EcoBreeze AC,cant log account keep showing reset required help,63
+886,Payment issue fr mi PhotoSnap Cam. I was overbilled fr order #68654.,Billing Problem,Medium,PhotoSnap Cam,payment issue fr mi photosnap cam overbilled fr order,68
+887,Payment issue for my RoboChef Blender. I was overbilled for order #77275.,Billing Problem,Low,RoboChef Blender,payment issue robochef blender overbilled order,73
+888,PhotoSnap Cam is charged. It stopped working after just 11 days.,Unknown,Medium,PhotoSnap Cam,photosnap cam charged stopped working day,64
+889,"Facing installation issue with Vision LED TV. Setup fails at step 3. Also, I contacted support on 05 April but got no response.",Unknown,Low,Vision LED TV,facing installation issue vision led tv setup fails step also contacted support april got response,127
+890,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Low,ProTab X1,cant log account keep showing unknown issue help,62
+891,"Order #97243 for FitRun Treadmill is 16 days late. Ordered on 20 March. Also, I contacted support on 20 March but got no response.",Late Delivery,High,FitRun Treadmill,order fitrun treadmill day late ordered march also contacted support march got response,130
+892,RoboChef Blender is wrong item. It stopped working after just 4 days.,Product Defect,High,RoboChef Blender,robochef blender wrong item stopped working day,69
+893,"Can you tell me more about the SmartWatch V2 warranty? Also, is it available in red?",General Inquiry,High,SmartWatch V2,tell smartwatch v warranty also available red,84
+894,I ordered SmartWatch V2 but got UltraClean Vacuum instead. My order number is #89720.,Unknown,Low,SmartWatch V2,ordered smartwatch v got ultraclean vacuum instead order number,85
+895,Payment issue for my RoboChef Blender. I was debited incorrectly for order #59153.,Billing Problem,High,RoboChef Blender,payment issue robochef blender debited incorrectly order,82
+896,Payment issue for my SmartWatch V2. I was charged twice for order #50217.,Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v charged twice order,73
+897,"Received wrong product, order mixed up.",Wrong Item,Low,EcoBreeze AC,received wrong product order mixed,39
+898,"Can you tell me more about the Vision LED TV warranty? Also, is it available in red? Also, I contacted support on 13 April but got no response.",General Inquiry,High,Vision LED TV,tell vision led tv warranty also available red also contacted support april got response,143
+899,I ordered  but got RoboChef Blender instead. My order number is #32296.,Wrong Item,High,Vision LED TV,ordered got robochef blender instead order number,71
+900,"Can't log in to my account. Keeps showing reset required. Help! Also, I contacted support on 15 April but got no response.",Account Access,Medium,PowerMax Battery,cant log account keep showing reset required help also contacted support april got response,122
+901,,General Inquiry,High,FitRun Treadmill,,0
+902, is missing. It stopped working after just 5 days.,Product Defect,High,UltraClean Vacuum,missing stopped working day,50
+903,Facing installation issue with FitRun Treadmill. Setup fails at step 2.,Installation Issue,Medium,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step,71
+904,I ordered FitRun Treadmill but got SoundWave 300 instead. My order number is #50409.,Wrong Item,High,FitRun Treadmill,ordered fitrun treadmill got soundwave instead order number,84
+905,Can't log in to my account. Keeps showing reset required. Help!,Account Access,Medium,Vision LED TV,cant log account keep showing reset required help,63
+906,Facing installation issue with EcoBreeze AC. Setup fails at step 1.,Installation Issue,Low,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+907,Can't log in to my account. Keeps showing blocked. Help!,Account Access,Unknown,SmartWatch V2,cant log account keep showing blocked help,56
+908,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Low,UltraClean Vacuum,cant log account keep showing unknown issue help,62
+909,Payment issue for my SmartWatch V2. I was charged twice for order #76501.,Billing Problem,Low,SmartWatch V2,payment issue smartwatch v charged twice order,73
+910,Facing installation issue with EcoBreeze AC. Setup fails at step 6.,Installation Issue,High,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+911,"Payment issue fr mi Vision LED TV. I was debited incorrectly fr order #70312. Also, I contacted support on 27 March but got no response.",Billing Problem,Medium,Vision LED TV,payment issue fr mi vision led tv debited incorrectly fr order also contacted support march got response,136
+912,I ordered FitRun Treadmill but got FitRun Treadmill instead. My order number is #38356.,Wrong Item,Medium,FitRun Treadmill,ordered fitrun treadmill got fitrun treadmill instead order number,87
+913,Facing installation issue with FitRun Treadmill. Setup fails at step 6. Delivery expected by 26 April.,Installation Issue,Low,FitRun Treadmill,facing installation issue fitrun treadmill setup fails step delivery expected april,102
+914,"Can you tell me more about the  warranty? Also, is it available in white?",General Inquiry,Medium,RoboChef Blender,tell warranty also available white,73
+915,Order #37396 for PowerMax Battery is 18 days late. Ordered on 26 March.,Late Delivery,Low,PowerMax Battery,order powermax battery day late ordered march,71
+916,"PowerMax Battery is late. It stopped working after just 6 days. Also, I contacted support on 28 March but got no response.",Product Defect,Medium,PowerMax Battery,powermax battery late stopped working day also contacted support march got response,122
+917,I ordered  but got EcoBreeze AC instead. My order number is #37027.,Unknown,High,Vision LED TV,ordered got ecobreeze ac instead order number,67
+918,Order #31522 for PhotoSnap Cam is 3 days late. Ordered on 17 April.,Late Delivery,Low,PhotoSnap Cam,order photosnap cam day late ordered april,67
+919,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,PhotoSnap Cam,cant log account keep showing captcha failed help,63
+920,,Product Defect,Medium,RoboChef Blender,,0
+921,Payment issue for my RoboChef Blender. I was not refunded for order #73665.,Billing Problem,Medium,RoboChef Blender,payment issue robochef blender refunded order,75
+922,,Late Delivery,Medium,SoundWave 300,,0
+923,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in red?",General Inquiry,Low,PhotoSnap Cam,tell photosnap cam warranty also available red,84
+924,I ordered EcoBreeze AC but got EcoBreeze AC instead. My order number is #75836.,Wrong Item,Medium,EcoBreeze AC,ordered ecobreeze ac got ecobreeze ac instead order number,79
+925,Account problem. Assistance needed.,Account Access,High,EcoBreeze AC,account problem assistance needed,35
+926,"I ordered Vision LED TV but got UltraClean Vacuum instead. My order number is #60696. Also, I contacted support on 15 March but got no response.",Wrong Item,Low,Vision LED TV,ordered vision led tv got ultraclean vacuum instead order number also contacted support march got response,144
+927,Payment issue for my RoboChef Blender. I was underbilled for order #97829.,Billing Problem,Medium,RoboChef Blender,payment issue robochef blender underbilled order,74
+928,ProTab X1 is no response. It stopped working after just 7 days.,Product Defect,Medium,ProTab X1,protab x response stopped working day,63
+929,,Late Delivery,Low,Vision LED TV,,0
+930,Both my EcoBreeze AC and EcoBreeze AC are lost. Both giving issues.,Product Defect,High,EcoBreeze AC,ecobreeze ac ecobreeze ac lost giving issue,67
+931,Facing installation issue with EcoBreeze AC. Setup fails at step 3.,Installation Issue,Low,EcoBreeze AC,facing installation issue ecobreeze ac setup fails step,67
+932,Facing installation issue with PhotoSnap Cam. Setup fails at step 2.,Unknown,Low,PhotoSnap Cam,facing installation issue photosnap cam setup fails step,68
+933,I ordered Vision LED TV but got PhotoSnap Cam instead. My order number is #55731.,Wrong Item,Medium,Vision LED TV,ordered vision led tv got photosnap cam instead order number,81
+934,Payment issue for my . I was debited incorrectly for order #92245.,Billing Problem,Low,SmartWatch V2,payment issue debited incorrectly order,66
+935,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,RoboChef Blender,cant log account keep showing captcha failed help,63
+936,Can't log in to my account. Keeps showing blocked. Help!,Account Access,High,ProTab X1,cant log account keep showing blocked help,56
+937,Order #68327 for SoundWave 300 is 9 days late. Ordered on 27 April.,Late Delivery,Low,SoundWave 300,order soundwave day late ordered april,67
+938,Payment issue for my PhotoSnap Cam. I was underbilled for order #42289. Delivery expected by 18 May.,Unknown,Medium,PhotoSnap Cam,payment issue photosnap cam underbilled order delivery expected may,100
+939,"Can you tell me more about the RoboChef Blender warranty? Also, is it available in red?",General Inquiry,Low,RoboChef Blender,tell robochef blender warranty also available red,87
+940,Facing installation issue with . Setup fails at step 2.,Installation Issue,Low,EcoBreeze AC,facing installation issue setup fails step,55
+941,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in red?",General Inquiry,Medium,FitRun Treadmill,tell fitrun treadmill warranty also available red,87
+942,Order #26699 for Vision LED TV is 6 days late. Ordered on 11 March.,Unknown,Low,Vision LED TV,order vision led tv day late ordered march,67
+943,"Payment problem for order #71097. Need urgent help. Also, I contacted support on 14 April but got no response.",Billing Problem,Low,EcoBreeze AC,payment problem order need urgent help also contacted support april got response,110
+944,,Late Delivery,High,RoboChef Blender,,0
+945,Is this item in stock? Delivery expected by 05 March.,General Inquiry,Medium,UltraClean Vacuum,item stock delivery expected march,53
+946,Order #26064 for Vision LED TV is 18 days late. Ordered on 26 March.,Late Delivery,Low,Vision LED TV,order vision led tv day late ordered march,68
+947,I ordered ProTab X1 but got FitRun Treadmill instead. My order number is #34126. Delivery expected by 09 May.,Wrong Item,Low,ProTab X1,ordered protab x got fitrun treadmill instead order number delivery expected may,109
+948,"Order #77825 for  is 12 days late. Ordered on 06 April. Also, I contacted support on 06 April but got no response.",Late Delivery,Low,SmartWatch V2,order day late ordered april also contacted support april got response,114
+949,Want to know more about warranty.,General Inquiry,High,RoboChef Blender,want know warranty,33
+950, is wrong item. It stopped working after just 3 days.,Product Defect,Low,RoboChef Blender,wrong item stopped working day,53
+951,,Product Defect,High,UltraClean Vacuum,,0
+952,"Payment issue for my EcoBreeze AC. I was not refunded for order #96984. Also, I contacted support on 10 March but got no response.",Billing Problem,High,EcoBreeze AC,payment issue ecobreeze ac refunded order also contacted support march got response,130
+953,Not able to install my product.,Unknown,Low,EcoBreeze AC,able install product,31
+954,Order #76260 for  is 9 days late. Ordered on 15 May.,Late Delivery,Low,ProTab X1,order day late ordered may,52
+955,"Payment issue for my SoundWave 300. I was charged twice for order #65339. Also, I contacted support on 17 March but got no response.",Billing Problem,Low,SoundWave 300,payment issue soundwave charged twice order also contacted support march got response,132
+956,I ordered ProTab X1 but got FitRun Treadmill instead. My order number is #25354.,Wrong Item,Low,ProTab X1,ordered protab x got fitrun treadmill instead order number,80
+957,Order #91345 for ProTab X1 is 3 days late. Ordered on 10 April.,Late Delivery,Medium,ProTab X1,order protab x day late ordered april,63
+958, is error. It stopped working after just 12 days.,Product Defect,High,UltraClean Vacuum,error stopped working day,49
+959,Payment issue for my . I was overbilled for order #46165.,Billing Problem,Unknown,PowerMax Battery,payment issue overbilled order,57
+960,"Received wrong product, order mixed up.",Wrong Item,Medium,PhotoSnap Cam,received wrong product order mixed,39
+961,"Can you tell me more about the PowerMax Battery warranty? Also, is it available in blue?",General Inquiry,Unknown,PowerMax Battery,tell powermax battery warranty also available blue,88
+962,"Can you tell me more about the Vision LED TV warranty? Also, is it available in white?",General Inquiry,Low,Vision LED TV,tell vision led tv warranty also available white,86
+963," is not working. It stopped working after just 5 days. Also, I contacted support on 03 May but got no response.",Product Defect,High,EcoBreeze AC,working stopped working day also contacted support may got response,111
+964,"Can you tell me more about the  warranty? Also, is it available in black? Also, I contacted support on 18 May but got no response.",Unknown,Low,PhotoSnap Cam,tell warranty also available black also contacted support may got response,130
+965,Facing installation issue wit . Setup fails at step 1.,Installation Issue,Medium,RoboChef Blender,facing installation issue wit setup fails step,54
+966,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Medium,ProTab X1,cant log account keep showing captcha failed help,63
+967,Payment issue for my ProTab X1. I was not refunded for order #57541.,Billing Problem,High,ProTab X1,payment issue protab x refunded order,68
+968,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,SoundWave 300,cant log account keep showing captcha failed help,63
+969,I ordered UltraClean Vacuum but got RoboChef Blender instead. My order number is #40823. Delivery expected by 04 May.,Wrong Item,High,UltraClean Vacuum,ordered ultraclean vacuum got robochef blender instead order number delivery expected may,117
+970,I ordered ProTab X1 but got FitRun Treadmill instead. My order number is #74338.,Wrong Item,Medium,ProTab X1,ordered protab x got fitrun treadmill instead order number,80
+971,"Can't log in to my account. Keeps showing captcha failed. Help! Also, I contacted support on 16 March but got no response.",Account Access,Low,PowerMax Battery,cant log account keep showing captcha failed help also contacted support march got response,122
+972,"Can you tell me more about the FitRun Treadmill warranty? Also, is it available in blue? Also, I contacted support on 29 April but got no response.",General Inquiry,Low,FitRun Treadmill,tell fitrun treadmill warranty also available blue also contacted support april got response,147
+973,ProTab X1 is charged. It stopped working after just 12 days.,Unknown,High,ProTab X1,protab x charged stopped working day,60
+974,I ordered RoboChef Blender but got RoboChef Blender instead. My order number is #38197.,Wrong Item,High,RoboChef Blender,ordered robochef blender got robochef blender instead order number,87
+975," is damaged. It stopped working after just 8 days. Also, I contacted support on 03 April but got no response.",Product Defect,Unknown,UltraClean Vacuum,damaged stopped working day also contacted support april got response,109
+976,"Can you tell me more about the SoundWave 300 warranty? Also, is it available in blue?",General Inquiry,Medium,SoundWave 300,tell soundwave warranty also available blue,85
+977,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,Medium,RoboChef Blender,cant log account keep showing unknown issue help,62
+978,Payment issue for my Vision LED TV. I was overbilled for order #82579.,Billing Problem,High,Vision LED TV,payment issue vision led tv overbilled order,70
+979,Can't log in to my account. Keeps showing captcha failed. Help!,Account Access,Low,FitRun Treadmill,cant log account keep showing captcha failed help,63
+980,Can't log in to my account. Keeps showing unknown issue. Help!,Account Access,High,PhotoSnap Cam,cant log account keep showing unknown issue help,62
+981,"Payment issue for my SmartWatch V2. I was underbilled for order #43566. Also, I contacted support on 09 March but got no response.",Billing Problem,Medium,SmartWatch V2,payment issue smartwatch v underbilled order also contacted support march got response,130
+982,Payment issue fr mi ProTab X1. I was not refunded fr order #49840.,Billing Problem,Medium,ProTab X1,payment issue fr mi protab x refunded fr order,66
+983,,General Inquiry,High,PhotoSnap Cam,,0
+984,Facing installation issue with . Setup fails at step 3.,Installation Issue,Medium,UltraClean Vacuum,facing installation issue setup fails step,55
+985,I ordered Vision LED TV but got PowerMax Battery instead. My order number is #95065.,Wrong Item,Medium,Vision LED TV,ordered vision led tv got powermax battery instead order number,84
+986,"Can you tell me more about the PhotoSnap Cam warranty? Also, is it available in black?",General Inquiry,Medium,PhotoSnap Cam,tell photosnap cam warranty also available black,86
+987,Payment issue for my . I was debited incorrectly for order #21290.,Billing Problem,High,UltraClean Vacuum,payment issue debited incorrectly order,66
+988,Product info needed.,General Inquiry,Low,FitRun Treadmill,product info needed,20
+989,Order #97942 for FitRun Treadmill is 13 days late. Ordered on 05 May.,Late Delivery,High,FitRun Treadmill,order fitrun treadmill day late ordered may,69
+990,Order #46084 for  is 11 days late. Ordered on 16 May.,Late Delivery,Low,RoboChef Blender,order day late ordered may,53
+991,Facing installation issue with ProTab X1. Setup fails at step 6.,Unknown,Medium,ProTab X1,facing installation issue protab x setup fails step,64
+992,"Both my FitRun Treadmill and PhotoSnap Cam are missing. Both giving issues. Also, I contacted support on 09 March but got no response.",Product Defect,Medium,FitRun Treadmill,fitrun treadmill photosnap cam missing giving issue also contacted support march got response,134
+993,,Installation Issue,High,SmartWatch V2,,0
+994,"Received wrong product, order mixed up.",Wrong Item,High,ProTab X1,received wrong product order mixed,39
+995,Is this item in stock?,General Inquiry,High,RoboChef Blender,item stock,22
+996,I ordered EcoBreeze AC but got FitRun Treadmill instead. My order number is #23620.,Wrong Item,High,EcoBreeze AC,ordered ecobreeze ac got fitrun treadmill instead order number,83
+997,"I ordered SoundWave 300 but got PowerMax Battery instead. My order number is #72311. Also, I contacted support on 22 April but got no response.",Wrong Item,Low,SoundWave 300,ordered soundwave got powermax battery instead order number also contacted support april got response,143
+998,,Installation Issue,Medium,EcoBreeze AC,,0
+999,Payment issue fr mi SoundWave 300. I was debited incorrectly fr order #64366.,Billing Problem,Low,SoundWave 300,payment issue fr mi soundwave debited incorrectly fr order,77
+1000,PowerMax Battery is missing. It stopped working after just 1 days.,Product Defect,Low,PowerMax Battery,powermax battery missing stopped working day,66

@@ -1,0 +1,17 @@
+Support Ticket,Analysis Results,timestamp
+The new feature in version 2.1.0 is not working as expected. Can you help me troubleshoot?,"### Classification Results
+- **Issue Type:** Technical Issue
+- **Urgency Level:** High
+
+### Extracted Entities",2025-06-02 21:16:20.239812
+Our server in New York is experiencing high CPU usage. This is affecting our production environment.,"            ### Classification Results
+            - **Issue Type:** General Inquiry
+            - **Urgency Level:** Low
+            
+            ### Extracted Entities
+            
+**ORG:**
+- CPU
+
+**GPE:**
+- New York",2025-06-02 21:16:26.847230

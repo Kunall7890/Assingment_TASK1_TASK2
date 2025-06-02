@@ -1,0 +1,15 @@
+{
+    "issue_type": {
+        "0": "Technical Issue",
+        "1": "Account Issue",
+        "2": "Feature Request",
+        "3": "Bug Report",
+        "4": "General Inquiry"
+    },
+    "urgency_level": {
+        "0": "Low",
+        "1": "Medium",
+        "2": "High",
+        "3": "Critical"
+    }
+} 
